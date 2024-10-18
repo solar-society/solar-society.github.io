@@ -62,7 +62,7 @@ plugins:
 # Site Author
 author:
   name             : "Solar Society of Pohang"
-  avatar           : "/assets/images/ssp.png"
+  avatar           : "/assets/images/ssp-logo-02.png"
   bio              : ""
 #  location         : "Silicon Valley, CA, USA"
   email            : solar.society.pohang@gmail.com

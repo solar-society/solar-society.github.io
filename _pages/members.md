@@ -13,20 +13,41 @@ permalink: /members/
 	Yoonhak Baek - Professor @ Youngnam University
 </h2>
 
+<div class="img-container">
+<img src="/assets/images/bio-photos/yoonhak-01.jpg">
+</div>
+<div class="img-container">
+<img src="/assets/images/bio-photos/yoonhak-03.jpeg">
+</div>
+<div class="img-container">
+<img src="/assets/images/bio-photos/yoonhak-04.jpeg">
+</div>
+<div class="img-container">
+<img src="/assets/images/bio-photos/yoonhak-05.jpg">
+</div>
+
 <h2>
 	Hongseok Kim - Professor @ Sogang University
 </h2>
 
+<div class="img-container">
+<img src="/assets/images/bio-photos/hongseok-01.jpg">
+</div>
+
 <h2>
 	Gunsu Yun - Professor @ POSTECH
 </h2>
+
+<div class="img-container">
+<img src="/assets/images/bio-photos/gunsu-01.jpg">
+</div>
 
 <h2>
 	Sunghee Yun - Co-Founder &amp; CTO @ <a hre="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
 </h2>
 
 <div class="img-container">
-<img src="/assets/images/bio-photos/sunghee.webp">
+<img src="/assets/images/bio-photos/sunghee-04.jpg">
 </div>
 
 <p>

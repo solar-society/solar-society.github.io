@@ -43,7 +43,7 @@ permalink: /members/
 </div>
 
 <h2>
-	Sunghee Yun - Co-Founder &amp; CTO @ <a hre="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
+	Sunghee Yun - Co-Founder &amp; CTO @ Erudio Bio, Inc.
 </h2>
 
 <div class="img-container">
@@ -52,13 +52,14 @@ permalink: /members/
 
 <p>
 <a href="https://www.linkedin.com/in/sungheeyun/">Sunghee Yun</a>
-is the Co-founder and AI Technology &amp; Product Strategy Lead at Erudio Bio, Inc.
+is the Co-founder and AI Technology &amp; Product Strategy Lead
+@ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
 He has extensive experience and expertise in AI and Convex Optimization,
-co-founding <a href="https://www.gausslabs.ai/">Gauss Labs</a> and serving as CTO.
+co-founding <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a> and serving as CTO.
 Sunghee has also held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and VP
 and led AI projects at <a href="amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in sales.
 He holds M.S. and Ph.D. in Electrical Engineering (EE) from <a href="stanford.edu">Stanford University</a>
-&amp; a B.S. in EE from <a href="https://en.snu.ac.kr">Seoul National University</a>.
+&amp; B.S. in EE from <a href="https://en.snu.ac.kr">Seoul National University</a>,
 and
 is an Adjunct Professor at <a href="https://sogang.ac.kr/en">Sogang University</a>
 and an Advisory Professor at <a href="https://dgist.ac.kr/">DGIST</a>.

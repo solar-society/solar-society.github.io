@@ -46,7 +46,7 @@ permalink: /meetings/
 	@ Seoul Station, Seoul, Korea
 </li>
 <li>
-	Sunghee, Gunsu &amp; Hongsuk
+	Sunghee, Gunsu &amp; Hongseok
 </li>
 <li>
 	quite a short meeting, but the following were discussed.
@@ -69,6 +69,10 @@ permalink: /meetings/
 			societal &amp; economical impacts of AI
 		</li>
 		</ul>
+	</li>
+	<li>
+		Gunsu will be in sabbatical from late December, 2024,
+		hence we may as well have the first gathering (whenever it will be held) in Seoul (not Pohang)
 	</li>
 	</ul>
 </li>

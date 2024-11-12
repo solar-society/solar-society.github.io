@@ -3,6 +3,8 @@ main:
     url: /about
   - title: "members"
     url: /members
+  - title: "meetings"
+    url: /meetings
 #  - title: "AI Insights"
 #    url: /articles
 #  - title: "AI papers"

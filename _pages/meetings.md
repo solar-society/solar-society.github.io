@@ -16,7 +16,7 @@ permalink: /meetings/
 
 <ul>
 <li>
-	19-Jun-2024 @ POSTECH, Pohang, Korea
+	20-Jun-2024 @ POSTECH, Pohang, Korea
 </li>
 <li>
 	during

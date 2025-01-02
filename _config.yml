@@ -67,56 +67,29 @@ author:
 #  location         : "Silicon Valley, CA, USA"
   email            : solar.society.pohang@gmail.com
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/solar-society/solar-society.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:solar.society.pohang@gmail.com"
     - label: "Pohang, South Korea"
       icon: "fas fa-map-marker-alt"
       url: "https://naver.me/FPn2zDUU"
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:sunghee.yun@gmail.com"
-#    - label: "CV"
-#      icon: "fab fa-fw fa-instagram"
-#      url: /resource/CV/Sunghee_Yun_CV_2.pdf
-#    - label: "LinkedIn"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://www.linkedin.com/in/sungheeyun/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "https://facebook.com/sunghee.yun1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/solar-society"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://www.instagram.com/sunghee.yun/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/sunghee14"
 
 
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/solar-society/solar-society.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:solar.society.pohang@gmail.com"
-#    - label: "CV"
-#      icon: "fab fa-fw fa-instagram"
-#      url: /resource/CV/Sunghee_Yun_CV_2.pdf
-#    - label: "LinkedIn"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://www.linkedin.com/in/sungheeyun/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "https://facebook.com/sunghee.yun1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/solar-society"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://www.instagram.com/sunghee.yun/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/sunghee14"
+    - label: "Pohang, South Korea"
+      icon: "fas fa-map-marker-alt"
+      url: "https://naver.me/FPn2zDUU"
 
 defaults:
   # _posts

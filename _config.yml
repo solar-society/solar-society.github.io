@@ -65,7 +65,7 @@ author:
   avatar           : "/assets/images/ssp-logo-02.png"
   bio              : ""
 #  location         : "Silicon Valley, CA, USA"
-  email            : solar.society.pohang@gmail.com
+#  email            : solar.society.pohang@gmail.com
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

@@ -2,6 +2,10 @@
 layout: single
 title: Members
 permalink: /members/
+toc: true
+toc_label: "ToC"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 <head>
@@ -9,16 +13,17 @@ permalink: /members/
 </head>
 
 
-<h2>
-	Byoung-Il Bae - Assistant Professor @ University of Connecticut, School of Medicine, Department of Neuroscience
+<h2 id="byoung-il">
+	Byoung-Il Bae
+<!--- Assistant Professor @ University of Connecticut, School of Medicine, Department of Neuroscience-->
 </h2>
 
 <div class="img-container">
 <img src="/assets/images/bio-photos/babang.png">
 </div>
 
-<h2>
-	Yoonhak Baek - Professor @ Youngnam University
+<h2 id="yoonhak">
+	Yoonhak Baek<!-- Professor @ Youngnam University-->
 </h2>
 
 <div class="img-container">
@@ -48,8 +53,8 @@ permalink: /members/
 </ul>
 </p>
 
-<h2>
-	Hongseok Kim - Professor @ Sogang University
+<h2 id="hongseok">
+	Hongseok Kim<!-- Professor @ Sogang University-->
 </h2>
 
 <div class="img-container">
@@ -60,8 +65,8 @@ permalink: /members/
 Dr. Hongseok Kim is a Professor in the Department of Electronic Engineering at Sogang University. He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea, and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA. He was a Post Doctoral Research Associate at Princeton University, and a Member of Technical Staff at Bell Laboratories Alcatel-Lucent, Murray Hill, USA. His current research interests include AI and machine learning, optimization and resource management in networks, specifically focused on energy ICT, power systems, smart grid communications, wireless networks and economics. Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Scholarship during 2005-2008. He received the Haedong Young Professor Award in 2016. He has been an IEEE Senior Member since 2016.
 </p>
 
-<h2>
-	Gunsu Yun - Professor @ POSTECH
+<h2 id="gunsun">
+	Gunsu Yun<!-- Professor @ POSTECH-->
 </h2>
 
 <div class="img-container">
@@ -121,8 +126,8 @@ Dr. Hongseok Kim is a Professor in the Department of Electronic Engineering at S
 </ul>
 </p>
 
-<h2>
-	Sunghee Yun - Co-Founder &amp; CTO @ Erudio Bio, Inc.
+<h2 id="sunghee">
+	Sunghee Yun<!-- Co-Founder &amp; CTO @ Erudio Bio, Inc.-->
 </h2>
 
 <div class="img-container">

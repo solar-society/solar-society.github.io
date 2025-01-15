@@ -10,6 +10,10 @@ permalink: /members/
 
 
 <h2>
+	Byoung-Il Bae - Assistant Professor @ University of Connecticut, School of Medicine, Department of Neuroscience
+</h2>
+
+<h2>
 	Yoonhak Baek - Professor @ Youngnam University
 </h2>
 

@@ -135,13 +135,28 @@ Dr. Hongseok Kim is a Professor in the Department of Electronic Engineering at S
 </div>
 
 <p>
-<a href="https://www.linkedin.com/in/sungheeyun/">Sunghee Yun</a>
-is the Co-founder and AI Technology &amp; Product Strategy Lead
-@ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
-and
-<a href="https://www.salzburgglobal.org/people?userID=55317&eventID=11076">KFAS-Salzburg Global Leadership Initiative Fellow</a>
+<a href="https://www.linkedin.com/in/sungheeyun/">I</a> am Co-founder / CTO
 @
-<a href="https://www.salzburgglobal.org/">Salzburg Global Seminar</a>.
+<a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
+a <a href="https://www.salzburgglobal.org/multi-year-series/kfas/pageId/10834">KFAS-Salzburg Global Leadership Initiative Fellow</a>
+@
+<a href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
+an Advisor and Evangelist
+@
+<a href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>,
+an Adjunct Professor
+@
+<a href="https://ee.sogang.ac.kr/eng/employee/professor03.php">Sogang University, Seoul, South Korea</a>,
+an Advisory Professor
+@
+<a href="https://www.dgist.ac.kr/en_eecs/?bo_table=eng2_1&sca=Advisory+Professor">Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST), South Korea</a>,
+Global Advisory Board Member
+@
+<a href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>
+&amp;
+Network Expert
+@
+<a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>
 He has extensive experience and expertise in AI and Convex Optimization,
 co-founding <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a> and serving as CTO.
 Sunghee has also held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and VP

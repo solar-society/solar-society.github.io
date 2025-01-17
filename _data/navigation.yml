@@ -1,9 +1,9 @@
 main:
-  - title: "about"
+  - title: "About"
     url: /about
-  - title: "members"
+  - title: "Members"
     url: /members
-  - title: "meetings"
+  - title: "Meetings"
     url: /meetings
 #  - title: "AI Insights"
 #    url: /articles

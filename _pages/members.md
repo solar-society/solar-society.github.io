@@ -154,7 +154,7 @@ Global Advisory Board Member
 @
 <a href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>,
 and
-Network Expert
+Network Expert Consultant
 @
 <a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>
 He has extensive experience and expertise in AI and Convex Optimization,

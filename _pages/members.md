@@ -135,13 +135,13 @@ Dr. Hongseok Kim is a Professor in the Department of Electronic Engineering at S
 </div>
 
 <p>
-<a href="https://sungheeyun.github.io/">Sunghee</a> is Co-founder / CTO
+<a href="https://sungheeyun.github.io/">Sunghee</a> is a Co-founder &amp; CTO
 @
 <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
 an Advisor and Evangelist
 @
 <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>,
-a <a href="https://www.salzburgglobal.org/multi-year-series/kfas/pageId/10834">KFAS-Salzburg Global Leadership Initiative Fellow</a>
+a <a href="https://www.salzburgglobal.org/news/latest-news/article/introducing-the-second-cohort-of-the-kfas-salzburg-global-leadership-initiative">KFAS-Salzburg Global Leadership Initiative Fellow</a>
 @
 <a href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
 an Adjunct Professor
@@ -152,15 +152,15 @@ an Advisory Professor
 <a href="https://www.dgist.ac.kr/en_eecs/?bo_table=eng2_1&sca=Advisory+Professor">Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST), South Korea</a>,
 Global Advisory Board Member
 @
-<a href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>
-&amp;
+<a href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>,
+and
 Network Expert
 @
 <a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>
 He has extensive experience and expertise in AI and Convex Optimization,
 co-founding <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a> and serving as CTO.
-Sunghee has also held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and VP
-and led AI projects at <a href="amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in sales.
+He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and VP
+and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in sales.
 He holds M.S. and Ph.D. in Electrical Engineering (EE) from <a href="stanford.edu">Stanford University</a>
 &amp; B.S. in EE from <a href="https://en.snu.ac.kr">Seoul National University</a>,
 and

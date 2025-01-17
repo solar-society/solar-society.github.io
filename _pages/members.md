@@ -135,15 +135,15 @@ Dr. Hongseok Kim is a Professor in the Department of Electronic Engineering at S
 </div>
 
 <p>
-<a href="https://www.linkedin.com/in/sungheeyun/">I</a> am Co-founder / CTO
+<a href="https://sungheeyun.github.io/">Sunghee</a> is Co-founder / CTO
 @
 <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
-a <a href="https://www.salzburgglobal.org/multi-year-series/kfas/pageId/10834">KFAS-Salzburg Global Leadership Initiative Fellow</a>
-@
-<a href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
 an Advisor and Evangelist
 @
 <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>,
+a <a href="https://www.salzburgglobal.org/multi-year-series/kfas/pageId/10834">KFAS-Salzburg Global Leadership Initiative Fellow</a>
+@
+<a href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
 an Adjunct Professor
 @
 <a href="https://ee.sogang.ac.kr/eng/employee/professor03.php">Sogang University, Seoul, South Korea</a>,

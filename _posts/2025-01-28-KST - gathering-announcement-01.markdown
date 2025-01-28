@@ -1,7 +1,7 @@
 ---
 title: The 1st Gathering of Solar Societies of Pohang!
-date: Mon Jan 27 23:15:34 PST 2025
-last_modified_at: Mon Jan 27 23:15:34 PST 2025
+date: Tue Jan 28 16:15:34 KST 2025
+last_modified_at: Tue Jan 28 16:15:34 KST 2025
 permalink: /gathering-announcements/01
 categories:
  - announcement

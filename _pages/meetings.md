@@ -4,11 +4,6 @@ title: Meetings
 permalink: /meetings/
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
-
 <h2 id="19-jun-2024">
 	Ideas about the society
 	brainstormed for the first time
@@ -77,4 +72,3 @@ permalink: /meetings/
 	</ul>
 </li>
 </ul>
-

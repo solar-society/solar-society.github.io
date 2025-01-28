@@ -9,11 +9,6 @@ toc_sticky: true
 last_modified_at: Mon Jan 27 22:42:24 PST 2025
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
-
 <h2 id="byoung-il">
 	Byoung-Il Bae
 <!--- Assistant Professor @ University of Connecticut, School of Medicine, Department of Neuroscience-->

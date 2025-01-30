@@ -18,10 +18,15 @@ last_modified_at: Mon Jan 27 22:42:24 PST 2025
 <img src="/assets/images/bio-photos/babang.png">
 </div>
 
-Byoung-il Bae is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine. He specializes in brain development, leveraging insights from human genetic disorders and advanced model systems. He holds a Ph.D. in Neuroscience from Johns Hopkins University School of Medicine (2006) and a B.S. in Molecular Biology from Seoul National University (1998).
-Dr. Bae's academic journey includes a decade at Harvard Medical School as a Postdoctoral Fellow and Instructor in Pediatrics, followed by a role as an Associate Research Scientist in Neurosurgery at Yale School of Medicine. Since 2019, he has been leading neuroscience research at UConn Health.
+Byoung-il Bae is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
+He specializes in brain development, leveraging insights from human genetic disorders and advanced model systems.
+He holds a Ph.D. in Neuroscience from Johns Hopkins University School of Medicine (2006) and a B.S. in Molecular Biology from Seoul National University (1998).
+Dr. Bae's academic journey includes a decade at Harvard Medical School as a Postdoctoral Fellow and Instructor in Pediatrics, followed by a role as an Associate Research Scientist in Neurosurgery at Yale School of Medicine.
+Since 2019, he has been leading neuroscience research at UConn Health.
 
-His expertise spans molecular and cell biology, with research focusing on the genetic and cellular mechanisms underlying cerebral development. His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size. Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
+His expertise spans molecular and cell biology, with research focusing on the genetic and cellular mechanisms underlying cerebral development.
+His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size.
+Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
 
 <h2 id="yoonhak">
 	Yoonhak Baek<!-- Professor @ Youngnam University-->
@@ -67,7 +72,13 @@ having transitioned from engineering to music after his undergraduate studies.
 
 <p>
 Hongseok is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
-He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea, and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA. He was a Post Doctoral Research Associate at Princeton University, and a Member of Technical Staff at Bell Laboratories Alcatel-Lucent, Murray Hill, USA. His current research interests include AI and machine learning, optimization and resource management in networks, specifically focused on energy ICT, power systems, smart grid communications, wireless networks and economics. Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Scholarship during 2005-2008. He received the Haedong Young Professor Award in 2016. He has been an IEEE Senior Member since 2016.
+He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea,
+and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA.
+He was a Post Doctoral Research Associate at Princeton University, and a Member of Technical Staff at Bell Laboratories Alcatel-Lucent, Murray Hill, USA.
+His current research interests include AI and machine learning, optimization and resource management in networks, specifically focused on energy ICT, power systems, smart grid communications, wireless networks and economics.
+Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Scholarship during 2005-2008.
+He received the Haedong Young Professor Award in 2016.
+He has been an IEEE Senior Member since 2016.
 </p>
 
 <h2 id="gunsun">
@@ -152,7 +163,7 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 </div>
 
 <p>
-<a href="https://sungheeyun.github.io/">Sunghee</a> is Co-founder &amp; Chief Technology Officer (CTO)
+<a href="https://sungheeyun.github.io/">Sunghee</a> is Co-founder &amp; CTO
 @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
 Chief Business Development Officer (CBDO)
 @ <a href="https://westory.ai/">WeStory.ai, CA, USA</a>,
@@ -176,9 +187,13 @@ having worked for Samsung Electronics as Senior &amp; Principal Engineer,
 <a href="http://amazon.com">Amazon.com, Inc.</a> as Senior Applied Scientist,
 and
 founded <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a> running US Headquarters and leading R&amp;D of the enterprise
-as Chief Technology Officer (CTO), Chief Applied Scientist (CAS) &amp; Senior Fellow.
+as CTO, Chief Applied Scientist &amp; Senior Fellow.
 <!--He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and Vice President (VP)
 and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
-He holds M.S. &amp; Ph.D. from <a href="https://ee.stanford.edu/">the Department of Electrical Engineering</a> @ <a href="https://www.stanford.edu/">Stanford University</a>
+He holds M.S. &amp; Ph.D.
+in <a href="https://ee.stanford.edu/">Electrical Engineering</a>
+from <a href="https://www.stanford.edu/">Stanford University</a>
 and
-B.S. in <a href="https://ece.snu.ac.kr/en">the Department of Electrical Engineering</a> from <a href="https://en.snu.ac.kr">Seoul National University</a>.
+B.S.
+in <a href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
+from <a href="https://en.snu.ac.kr">Seoul National University</a>.

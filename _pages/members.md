@@ -6,13 +6,10 @@ toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
-last_modified_at: Mon Jan 27 22:42:24 PST 2025
+last_modified_at: Tue Feb 11 00:23:15 PST 2025
 ---
 
-<h2 id="byoung-il">
-	Byoung-Il Bae
-<!--- Assistant Professor @ University of Connecticut, School of Medicine, Department of Neuroscience-->
-</h2>
+# Byoung-Il Bae
 
 <div class="img-container">
 <img src="/assets/images/bio-photos/babang.png">
@@ -28,9 +25,7 @@ His expertise spans molecular and cell biology, with research focusing on the ge
 His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size.
 Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
 
-<h2 id="yoonhak">
-	Yoonhak Baek<!-- Professor @ Youngnam University-->
-</h2>
+# Yoonhak Baek
 
 <div class="img-container">
 <img src="/assets/images/bio-photos/yoonhak-00.jpeg">
@@ -62,9 +57,7 @@ having transitioned from engineering to music after his undergraduate studies.
 </ul>
 </p-->
 
-<h2 id="hongseok">
-	Hongseok Kim<!-- Professor @ Sogang University-->
-</h2>
+# Hongseok Kim
 
 <div class="img-container">
 <img src="/assets/images/bio-photos/hongseok-01.jpg">
@@ -81,9 +74,7 @@ He received the Haedong Young Professor Award in 2016.
 He has been an IEEE Senior Member since 2016.
 </p>
 
-<h2 id="gunsun">
-	Gunsu Yun<!-- Professor @ POSTECH-->
-</h2>
+# Gunsu Yun
 
 <div class="img-container">
 <img src="/assets/images/bio-photos/gunsu-01.jpg">
@@ -154,15 +145,12 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 </ul>
 </p-->
 
-<h2 id="sunghee">
-	Sunghee Yun<!-- Co-Founder &amp; CTO @ Erudio Bio, Inc.-->
-</h2>
+# Sunghee Yun
 
 <div class="img-container">
 <img src="/assets/images/bio-photos/sunghee-04.jpg">
 </div>
 
-<p>
 <a href="https://sungheeyun.github.io/">Sunghee</a> is Co-founder &amp; CTO
 @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
 Chief Business Development Officer (CBDO)
@@ -182,12 +170,26 @@ of <a href="https://www.dgist.ac.kr/en_eecs/">the Department of Electrical Engin
 and
 Network Expert Consultant
 @ <a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>
-He has extensive industry and academic experience and expertise in AI and Convex Optimization,
+Before founding the new AI biotech company,
+he co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/), an industrial AI company,
+built and ran the US Headquarters of [Gauss Labs](https://www.gausslabs.ai/),
+spearheaded research & development of the core technology & products as CTO,
+Global Head of Research,
+Chief Applied Scientist & Senior Fellow.
+Before [Gauss Labs](https://www.gausslabs.ai/),
+he drove various AI technology and product developments and productionizations in the field of e-Commerce @ [Amazon.com, Inc.](https://www.amazon.com/)
+where one of his projects created a 200 USD revenue increase via [the Amazon Mobile Shopping App](https://www.amazon.com/b?ie=UTF8&node=17442765011).
+Before Amazon, he worked for Software Research Center, Strategic Sales & Marketing Team,
+Design Technology (DT) Team & Computer-Aided Engineering (CAE) Team of [Samsung Semiconductor, Inc.](https://semiconductor.samsung.com/)
+where he developed diverse AI and optimization tools for semiconductor chip designers,
+manufacturing engineers &amp; test engineers where many engineers
+still use the circuit optimization tools and generic AI optimization platform, dubbed iOpt, every day.
+<!--He has extensive industry and academic experience and expertise in AI and Convex Optimization,
 having worked for Samsung Electronics as Senior &amp; Principal Engineer,
 <a href="http://amazon.com">Amazon.com, Inc.</a> as Senior Applied Scientist,
 and
 founded <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a> running US Headquarters and leading R&amp;D of the enterprise
-as CTO, Chief Applied Scientist &amp; Senior Fellow.
+as CTO, Chief Applied Scientist &amp; Senior Fellow.-->
 <!--He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and Vice President (VP)
 and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
 He holds M.S. &amp; Ph.D.

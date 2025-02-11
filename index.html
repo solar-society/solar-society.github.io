@@ -29,11 +29,14 @@ About Us
 	Our meetings feature engaging presentations, lively discussions, and interactive workshops, providing a platform for members to share their knowledge, learn from others, and contribute to a brighter future.
 </p>
 
-<h1 id="recent-posts">Recent Posts</h1>
+<h1 id="recent-posts">Recent posts</h1>
 <ul>
 	{% for post in site.posts limit:10 %}
 		<li>
+			<!--
 			<a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}
+			-->
+			<a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
 	{% endfor %}
 </ul>

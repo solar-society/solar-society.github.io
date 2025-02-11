@@ -1,7 +1,7 @@
 ---
 title: Solar Societies Rising Together - When AI meets Plasma, Poetry, and Music!
 date: Tue Jan 28 16:15:34 KST 2025
-last_modified_at: Tue Feb 11 01:22:47 PST 2025
+last_modified_at: Tue Feb 11 01:31:46 PST 2025
 permalink: /gathering-announcements/01
 categories:
  - announcement
@@ -32,7 +32,7 @@ We are delighted to announce the first formal gathering of the Solar Society of 
 
 - Date: 01-Mar-2025 (sat) KST
 - Time: 14:30 &ndash; 20:30
-- Location: Seoul, South Korea (Specific venue TBD)
+- Location: [511 Tower, Seoul, Korea](https://naver.me/xJilldVJ)
 
 ## Program Highlights
 

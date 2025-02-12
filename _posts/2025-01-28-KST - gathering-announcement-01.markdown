@@ -1,7 +1,7 @@
 ---
 title: Solar Societies Rising Together - When AI meets Plasma, Poetry, and Music!
 date: Tue Jan 28 16:15:34 KST 2025
-last_modified_at: Tue Feb 11 01:31:46 PST 2025
+last_modified_at: Wed Feb 12 02:24:53 PST 2025
 permalink: /gathering-announcements/01
 categories:
  - announcement
@@ -30,7 +30,7 @@ to share this event!
 
 We are delighted to announce the first formal gathering of the Solar Society of Pohang, a forum dedicated to fostering interdisciplinary dialogue and innovation across sciences, arts, and technology.
 
-- Date: 01-Mar-2025 (sat) KST
+- Date: 03-Mar-2025 (mon) KST
 - Time: 14:30 &ndash; 20:30
 - Location: [511 Tower, Seoul, Korea](https://naver.me/xJilldVJ)
 
@@ -84,7 +84,7 @@ We are delighted to announce the first formal gathering of the Solar Society of 
 - Summary of key discussion points
 - Next steps and future gathering plans
 
-18:30 - 20:30
-&ndash; Dinner &amp; Networking
+19:00 - 20:30
+&ndash; Dinner &amp; Networking with SSHS alumni
 - Casual discussions and relationship building
 - Possible impromptu musical elements

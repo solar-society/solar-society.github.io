@@ -1,7 +1,7 @@
 ---
 title: Solar Societies Rising Together - When AI meets Plasma, Poetry, and Music!
 date: Tue Jan 28 16:15:34 KST 2025
-last_modified_at: Wed Feb 12 02:24:53 PST 2025
+last_modified_at: Mon Mar  3 09:42:45 KST 2025
 permalink: /gathering-announcements/01
 categories:
  - announcement
@@ -32,7 +32,7 @@ We are delighted to announce the first formal gathering of the Solar Society of 
 
 - Date: 03-Mar-2025 (mon) KST
 - Time: 14:30 &ndash; 20:30
-- Location: [511 Tower, Seoul, Korea](https://naver.me/xJilldVJ)
+- Location: [7th floor, 511 Tower, Seoul, Korea](https://naver.me/xJilldVJ)
 
 ## Program Highlights
 
@@ -68,7 +68,7 @@ We are delighted to announce the first formal gathering of the Solar Society of 
 - Byoung-Il: Brain Research & AI
 - Yoonhak: Music & Technology
 - Gunsu: Plasma Physics & AI
-- Sunghee: AI - Technology, Society, and Humanities
+- Sunghee: [AI - Technology, Society, and Humanities](https://sungheeyun.github.io/#ssop-1st-gathering)
 
 16:45 - 17:00
 &ndash; Break

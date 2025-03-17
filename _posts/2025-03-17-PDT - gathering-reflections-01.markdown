@@ -1,7 +1,7 @@
 ---
 title: Reflections on Our Inaugural Gathering - Bridging Disciplines Through AI
 date: Mon Mar 17 07:21:26 PDT 2025
-last_modified_at: Mon Mar 17 08:15:50 PDT 2025
+last_modified_at: Mon Mar 17 08:40:46 PDT 2025
 permalink: /gathering-reflections/01
 categories:
  - blog
@@ -26,6 +26,7 @@ The inaugural gathering of the Solar Society of Pohang on March 3rd, 2025 marked
 <!--With attendees from diverse fields spanning science, technology, arts, and humanities, the event embodied our vision of fostering cross-disciplinary dialogue and innovation.-->
 
 - Date: 03-Mar-2025 (mon) KST
+- Time: 3PM-6PM
 - Attendance: Gunsu, [Sunghee](https://sungheeyun.github.io), Yoonhak
 - Location: 7th floor, 511 Tower, Seoul, Korea
 

@@ -3,10 +3,10 @@ layout: single
 title: Members
 permalink: /members/
 toc: true
-toc_label: "ToC"
-toc_icon: "cog"
+toc_label: "&nbsp;Table of Contents"
+toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Feb 11 00:23:15 PST 2025
+last_modified_at: Tue Mar 18 16:30:01 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -144,6 +144,15 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 </li>
 </ul>
 </p-->
+
+# Sang Min Nam
+
+<div class="img-container">
+<img src="/assets/images/bio-photos/sangmin.jpeg">
+</div>
+
+Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daechi Yonsei Eye Clinic
+
 
 # Sunghee Yun
 

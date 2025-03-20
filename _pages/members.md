@@ -6,16 +6,16 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Thu Mar 20 14:00:46 PDT 2025
+last_modified_at: Thu Mar 20 14:14:22 PDT 2025
 ---
 
 # Byoung-Il Bae
 
 <div class="img-container">
-<img src="/assets/images/bio-photos/babang.png">
+<img style="min-width: 30%;" src="/assets/images/bio-photos/babang.png">
 </div>
 
-Byoung-il Bae is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
+Byoung-il is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
 He specializes in brain development, leveraging insights from human genetic disorders and advanced model systems.
 He holds a Ph.D. in Neuroscience from Johns Hopkins University School of Medicine (2006) and a B.S. in Molecular Biology from Seoul National University (1998).
 Dr. Bae's academic journey includes a decade at Harvard Medical School as a Postdoctoral Fellow and Instructor in Pediatrics, followed by a role as an Associate Research Scientist in Neurosurgery at Yale School of Medicine.
@@ -24,6 +24,19 @@ Since 2019, he has been leading neuroscience research at UConn Health.
 His expertise spans molecular and cell biology, with research focusing on the genetic and cellular mechanisms underlying cerebral development.
 His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size.
 Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
+
+# Gregory Hyung Jin Park
+
+<div class="img-container">
+<img style="min-width: 30%;" src="/assets/images/bio-photos/hyung-jin.jpeg">
+</div>
+
+Gregory is
+a Senior Director at Korea Quantum Computing in Busan
+and
+the Founder/CTO of Quantum MicroMaterials Inc.
+He previously served as a Senior Engineer at Samsung Display and a Scientist at KBSI
+before founding multiple companies including Probus Medical Technologies and PYCh Science Inc.
 
 # Gunsu Yun
 
@@ -46,7 +59,7 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 # Hongseok Kim
 
 <div class="img-container">
-<img src="/assets/images/bio-photos/hongseok-01.jpg">
+<img style="min-width: 30%;" src="/assets/images/bio-photos/hongseok-01.jpg">
 </div>
 
 <p>
@@ -63,7 +76,7 @@ He has been an IEEE Senior Member since 2016.
 # Sang Min Nam
 
 <div class="img-container">
-<img src="/assets/images/bio-photos/sangmin.jpeg">
+<img style="min-width: 30%;" src="/assets/images/bio-photos/sangmin.jpeg">
 </div>
 
 Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daechi Yonsei Eye Clinic
@@ -141,17 +154,3 @@ His educational background includes
 an Artistic Diploma in Orchestral Conducting from Curtis Institute of Music, M.M. in Opera Coaching from Temple University,
 and B.S. in Electrical Engineering from Seoul National University,
 having transitioned from engineering to music after his undergraduate studies.
-
-<!--p>
-<ul>
-<li>
-	Temple Univ. Master of Music (Accompanying Piano/Opera Coach)
-</li>
-<li>
-	서울대학교 음악학사 (관현악 지휘)
-</li>
-<li>
-	서울대학교 공학사 (전기공학)
-</li>
-</ul>
-</p-->

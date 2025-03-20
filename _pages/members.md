@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Mar 18 16:30:01 PDT 2025
+last_modified_at: Thu Mar 20 14:00:46 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -24,55 +24,6 @@ Since 2019, he has been leading neuroscience research at UConn Health.
 His expertise spans molecular and cell biology, with research focusing on the genetic and cellular mechanisms underlying cerebral development.
 His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size.
 Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
-
-# Yoonhak Baek
-
-<div class="img-container">
-<img src="/assets/images/bio-photos/yoonhak-00.jpeg">
-</div>
-
-Yoonhak Baek is a conductor and professor @ Yeungnam University, Korea.
-He used to serve as the Artistic Director @ Concert Opera Philadelphia and Associate Conductor &amp; Chorus Master @ Opera Delaware,
-while also being the Music Director @ Gloria Youth Orchestra in New Jersey.
-He has conducted major orchestras including Seoul Philharmonic, Opera Delaware Orchestra, and Sofia Festival Orchestra,
-specializing in both traditional and contemporary repertoire.
-He has received recommendations from notable figures including Grammy Award winner Dr. Jennifer Higdon
-and composer Unsuk Chin.
-His educational background includes
-an Artistic Diploma in Orchestral Conducting from Curtis Institute of Music, M.M. in Opera Coaching from Temple University,
-and B.S. in Electrical Engineering from Seoul National University,
-having transitioned from engineering to music after his undergraduate studies.
-
-<!--p>
-<ul>
-<li>
-	Temple Univ. Master of Music (Accompanying Piano/Opera Coach)
-</li>
-<li>
-	서울대학교 음악학사 (관현악 지휘)
-</li>
-<li>
-	서울대학교 공학사 (전기공학)
-</li>
-</ul>
-</p-->
-
-# Hongseok Kim
-
-<div class="img-container">
-<img src="/assets/images/bio-photos/hongseok-01.jpg">
-</div>
-
-<p>
-Hongseok is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
-He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea,
-and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA.
-He was a Post Doctoral Research Associate at Princeton University, and a Member of Technical Staff at Bell Laboratories Alcatel-Lucent, Murray Hill, USA.
-His current research interests include AI and machine learning, optimization and resource management in networks, specifically focused on energy ICT, power systems, smart grid communications, wireless networks and economics.
-Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Scholarship during 2005-2008.
-He received the Haedong Young Professor Award in 2016.
-He has been an IEEE Senior Member since 2016.
-</p>
 
 # Gunsu Yun
 
@@ -92,58 +43,22 @@ identifying a universal colliation mechanism for current-carrying flux tubes,
 and
 extending the gas breakdown law to high-frequency, high-pressure conditions.
 
-<!--p>
-<ul>
-<li>
-	Education
-	<ul>
-	<li>
-		2008: Ph.D., California Institute of Technology
-	</li>
-	<li>
-		2004: M.S., California Institute of Technology
-	</li>
-	<li>
-		1998: B.S., POSTECH
-	</li>
-	</ul>
-</li>
-<li>
-	Research Interests
-	<ul>
-	<li>
-		High-Pressure plasma source technologies and diagnostics
-	</li>
-	<li>
-		Strongly coupled plasma system under extreme pressure
-	</li>
-	<li>
-		Plasma-Surface and plasma-cluster interactions
-	</li>
-	<li>
-		Magnetohydrodynamics (MHD)
-	</li>
-	</ul>
-</li>
-<li>
-	Major Research Achievements
-	<ul>
-	<li>
-		Development of 2D microwave imaging diagnostics
-	</li>
-	<li>
-		Discovery of dynamic equilibria and phase transitions of MHD modes in fusion plasma
-	</li>
-	<li>
-		Discovery of a universal colliation mechanism for current-carrying flux tube
-	</li>
-	<li>
-		Extension of the gas breakdown law to high frequency and high pressure
-	</li>
-	</ul>
-</li>
-</ul>
-</p-->
+# Hongseok Kim
+
+<div class="img-container">
+<img src="/assets/images/bio-photos/hongseok-01.jpg">
+</div>
+
+<p>
+Hongseok is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
+He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea,
+and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA.
+He was a Post Doctoral Research Associate at Princeton University, and a Member of Technical Staff at Bell Laboratories Alcatel-Lucent, Murray Hill, USA.
+His current research interests include AI and machine learning, optimization and resource management in networks, specifically focused on energy ICT, power systems, smart grid communications, wireless networks and economics.
+Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Scholarship during 2005-2008.
+He received the Haedong Young Professor Award in 2016.
+He has been an IEEE Senior Member since 2016.
+</p>
 
 # Sang Min Nam
 
@@ -208,3 +123,35 @@ and
 B.S.
 in <a href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
 from <a href="https://en.snu.ac.kr">Seoul National University</a>.
+
+# Yoonhak Baek
+
+<div class="img-container">
+<img src="/assets/images/bio-photos/yoonhak-00.jpeg">
+</div>
+
+Yoonhak Baek is a conductor and professor @ Yeungnam University, Korea.
+He used to serve as the Artistic Director @ Concert Opera Philadelphia and Associate Conductor &amp; Chorus Master @ Opera Delaware,
+while also being the Music Director @ Gloria Youth Orchestra in New Jersey.
+He has conducted major orchestras including Seoul Philharmonic, Opera Delaware Orchestra, and Sofia Festival Orchestra,
+specializing in both traditional and contemporary repertoire.
+He has received recommendations from notable figures including Grammy Award winner Dr. Jennifer Higdon
+and composer Unsuk Chin.
+His educational background includes
+an Artistic Diploma in Orchestral Conducting from Curtis Institute of Music, M.M. in Opera Coaching from Temple University,
+and B.S. in Electrical Engineering from Seoul National University,
+having transitioned from engineering to music after his undergraduate studies.
+
+<!--p>
+<ul>
+<li>
+	Temple Univ. Master of Music (Accompanying Piano/Opera Coach)
+</li>
+<li>
+	서울대학교 음악학사 (관현악 지휘)
+</li>
+<li>
+	서울대학교 공학사 (전기공학)
+</li>
+</ul>
+</p-->

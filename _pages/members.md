@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Thu Mar 20 14:14:22 PDT 2025
+last_modified_at: Sat Mar 22 21:58:28 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -62,7 +62,6 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 <img style="min-width: 30%;" src="/assets/images/bio-photos/hongseok-01.jpg">
 </div>
 
-<p>
 Hongseok is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
 He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea,
 and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA.
@@ -71,7 +70,18 @@ His current research interests include AI and machine learning, optimization and
 Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Scholarship during 2005-2008.
 He received the Haedong Young Professor Award in 2016.
 He has been an IEEE Senior Member since 2016.
-</p>
+
+# Hyun Nam
+
+<div class="img-container">
+<img style="min-width: 30%;" src="/assets/images/bio-photos/hyun-01.jpg">
+</div>
+
+Hyun is a Partner at SEUM Law specializing in intellectual property, bankruptcy, criminal, and family law. He previously served as a Judge at various courts in South Korea, including the Jeonju District Court, Jeju Branch of Gwangju High Court, Western Branch of the Busan District Court, and Seoul Central District Court, where he handled various case types including criminal, bankruptcy, family, and civil appeals. He also worked as a Research Judge at the Supreme Court of Korea on the IP team.
+
+His extensive legal career spans nearly two decades, including serving as Secretary General for the Korea Patent Law Society. During his judicial career, he gained broad expertise across multiple practice areas. He was also a Visiting Scholar at IIT Chicago-Kent College of Law.
+
+Hyun received his B.S. in Chemical Technology from Seoul National University (1998) and earned his Attorney-at-Law License from the Judicial Research and Training Institute, the Supreme Court of the Republic of Korea (2005). He is licensed to practice law in South Korea and the U.S. state of Illinois. He currently serves as a Director of the Korea Patent Law Society, combining his technical background with legal expertise in his practice.
 
 # Sang Min Nam
 

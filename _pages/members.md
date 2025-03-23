@@ -6,13 +6,13 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Mar 22 21:58:28 PDT 2025
+last_modified_at: Sun Mar 23 01:39:29 PDT 2025
 ---
 
 # Byoung-Il Bae
 
 <div class="img-container">
-<img style="min-width: 30%;" src="/assets/images/bio-photos/babang.png">
+<img style="min-width: 30%;" src="/assets/images/bio-photos/babang.jpg">
 </div>
 
 Byoung-il is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
@@ -91,6 +91,20 @@ Hyun received his B.S. in Chemical Technology from Seoul National University (19
 
 Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daechi Yonsei Eye Clinic
 
+# Seonhee Lim
+
+<div class="img-container">
+<img style="min-width: 30%;" src="/assets/images/bio-photos/seonhee-03.jpeg">
+</div>
+
+
+Seonhee is a Professor in the Department of Mathematical Sciences at Seoul National University. Her research focuses on homogeneous dynamics and number theory, geometric group theory, and the dynamics of group actions on trees and metric spaces of non-positive curvature. She specializes in group actions on homogeneous spaces with applications to number theory, lattices of Lie groups, entropy rigidity, and thermodynamics formalism.
+
+She is an active organizer of mathematical conferences and seminars, including the "Dynamics & Number Theory" seminar and various workshops on dynamical systems and number theory. Her international recognition is evidenced by numerous invited talks at prestigious institutions worldwide, including lectures at IISER-Pune in India, KIAS in Korea, universities in England, Germany, Switzerland, Singapore, Australia, and the United States.
+
+<!--
+Professor Lim has delivered lecture series on topics such as "Homogeneous Dynamics and Number Theory" and "Random Walks and Spectral Gaps on Graphs," as well as public lectures making complex mathematical concepts accessible. She has also given special talks on the work of Fields medalists, demonstrating her ability to communicate advanced mathematical ideas to broader audiences.
+-->
 
 # Sunghee Yun
 

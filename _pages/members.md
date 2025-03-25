@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Mar 25 12:12:24 PDT 2025
+last_modified_at: Tue Mar 25 16:42:07 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -28,15 +28,14 @@ Dr. Bae has authored key publications, including studies on alternative splicing
 # Dayoung Jeong
 
 <div class="img-container">
-<img style="width: 30%;" src="/assets/images/bio-photos/dayoung-01.jpeg">
+<img style="width: 30%;" src="/assets/images/bio-photos/dayoung-00.jpeg">
 </div>
 
-Dayoung is an Associate Professor of Law at Chungnam National University, where she has been teaching since 2020. Her academic career includes serving as an Assistant Professor at Yeungnam University and holding visiting scholar positions at prestigious institutions including the University of California, Berkeley School of Law and Paris-Pantheon-Assas University.
+Dayoung is an associate professor of law at Chungnam National University. She previously served as an assistant professor at Yeungnam University and has held visiting scholar positions at leading institutions, including the University of California, Berkeley, and Paris-Panthéon-Assas University.
 
-Before entering academia, she gained valuable practical experience in the public sector, serving as a Deputy Director at the Defense Acquisition Program Administration (DAPA) and the Korea Ministry of Government Legislation. Her legal training includes time as a Judicial Apprentice at the Judicial Research & Training Institute.
+Before entering academia, she built a solid foundation in public service, working as a deputy director at both the Defense Acquisition Program Administration and the Korea Ministry of Government Legislation. She passed the South Korean bar exam in 2008 and completed her judicial training at the Judicial Research and Training Institute.
 
-Dayoung holds both a Bachelor and Master of Laws from Seoul National University. Her diverse experience spanning academia, government administration, and legal practice brings a multifaceted perspective to legal scholarship and policy discussions, bridging theoretical frameworks with real-world applications in the Korean legal system.
-
+Dayoung holds both bachelor's and master's degrees in law from Seoul National University. Drawing on her diverse background in academia, government, and legal practice, she offers a multidimensional perspective that bridges legal theory with practical policy insights in the context of the Korean legal system.
 
 # Gregory Hyung Jin Park
 

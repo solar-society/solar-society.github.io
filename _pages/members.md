@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sun Mar 23 01:39:29 PDT 2025
+last_modified_at: Tue Mar 25 12:12:24 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -24,6 +24,19 @@ Since 2019, he has been leading neuroscience research at UConn Health.
 His expertise spans molecular and cell biology, with research focusing on the genetic and cellular mechanisms underlying cerebral development.
 His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size.
 Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
+
+# Dayoung Jeong
+
+<div class="img-container">
+<img style="width: 30%;" src="/assets/images/bio-photos/dayoung-01.jpeg">
+</div>
+
+Dayoung is an Associate Professor of Law at Chungnam National University, where she has been teaching since 2020. Her academic career includes serving as an Assistant Professor at Yeungnam University and holding visiting scholar positions at prestigious institutions including the University of California, Berkeley School of Law and Paris-Pantheon-Assas University.
+
+Before entering academia, she gained valuable practical experience in the public sector, serving as a Deputy Director at the Defense Acquisition Program Administration (DAPA) and the Korea Ministry of Government Legislation. Her legal training includes time as a Judicial Apprentice at the Judicial Research & Training Institute.
+
+Dayoung holds both a Bachelor and Master of Laws from Seoul National University. Her diverse experience spanning academia, government administration, and legal practice brings a multifaceted perspective to legal scholarship and policy discussions, bridging theoretical frameworks with real-world applications in the Korean legal system.
+
 
 # Gregory Hyung Jin Park
 

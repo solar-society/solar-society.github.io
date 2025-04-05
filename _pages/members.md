@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Mar 25 16:42:07 PDT 2025
+last_modified_at: Fri Apr  4 21:54:28 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -94,6 +94,23 @@ Hyun is a Partner at SEUM Law specializing in intellectual property, bankruptcy,
 His extensive legal career spans nearly two decades, including serving as Secretary General for the Korea Patent Law Society. During his judicial career, he gained broad expertise across multiple practice areas. He was also a Visiting Scholar at IIT Chicago-Kent College of Law.
 
 Hyun received his B.S. in Chemical Technology from Seoul National University (1998) and earned his Attorney-at-Law License from the Judicial Research and Training Institute, the Supreme Court of the Republic of Korea (2005). He is licensed to practice law in South Korea and the U.S. state of Illinois. He currently serves as a Director of the Korea Patent Law Society, combining his technical background with legal expertise in his practice.
+
+# Natalie Huh
+
+<div class="img-container">
+<img width="50%" src="/assets/images/bio-photos/natalie-01.jpeg">
+</div>
+
+Natalie is a Trial Attorney at Quinn Emanuel in Silicon Valley, specializing in intellectual property litigation.
+Her legal career includes experience as an Associate at White & Case LLP and an externship with Judge Edward M. Chen at the U.S. District Court for the Northern District of California.
+Before transitioning to law, she worked in finance as a Trader at JPMorgan Chase & Co. in Hong Kong and ANZ in Seoul, followed by a role as Product Manager at PIMCO.
+
+Her educational background spans both technical and legal fields, with a Doctor of Law (JD) from the University of California, Hastings College of the Law, an MBA from Stanford University Graduate School of Business, and a Bachelor of Engineering in Electrical Engineering and Computer Science from Korea Advanced Institute of Science and Technology (KAIST).
+
+Natalie holds multiple professional certifications, including Patent Attorney and Chartered Financial Analyst (CFA).
+She has authored publications on patent law and U.S. financial markets, including analyses of Congressional actions affecting patent holders and investment strategies for Silicon Valley companies.
+Her unique combination of technical expertise, financial acumen, and legal knowledge provides a multidisciplinary perspective on intellectual property and technology law issues.
+
 
 # Sang Min Nam
 

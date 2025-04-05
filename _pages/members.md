@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Apr  5 15:08:46 PDT 2025
+last_modified_at: Sat Apr  5 15:13:32 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -43,12 +43,15 @@ Dayoung holds both bachelor's and master's degrees in law from Seoul National Un
 <img style="min-width: 30%;" src="/assets/images/bio-photos/hyung-jin.jpeg">
 </div>
 
-[Gregory](https://www.linkedin.com/in/gregory-park-9231656b/) is
-a Senior Director at Korea Quantum Computing in Busan
-and
-the Founder/CTO of Quantum MicroMaterials Inc.
-He previously served as a Senior Engineer at Samsung Display and a Scientist at KBSI
-before founding multiple companies including Probus Medical Technologies and PYCh Science Inc.
+[Gregory](https://www.linkedin.com/in/gregory-park-9231656b/)
+is a Senior Director at Korea Quantum Computing in Busan and the Founder/CTO of Quantum MicroMaterials Inc.
+His entrepreneurial career includes founding multiple technology ventures, serving as Founder, COO & CTO of Probus Medical Technologies since 2019, and as Founder & CEO of PYCh Science Inc. from 2014 to 2019.
+
+His professional background includes scientific research and industry experience, having worked as a Scientist at the Korea Basic Science Institute (KBSI) and as a Senior Engineer at Samsung Display, which branched out from the LCD Division of Samsung Electronics Co. Ltd. in 2012.
+
+Gregory earned his education at the University of California, Berkeley.
+His multifaceted career spans quantum computing, materials science, medical technologies, and display engineering, demonstrating his versatility and innovation across multiple high-tech domains.
+His expertise brings valuable insights to the intersection of quantum technologies and commercial applications, contributing to the advancement of cutting-edge technological developments in Korea and globally.
 
 # Gunsu Yun
 

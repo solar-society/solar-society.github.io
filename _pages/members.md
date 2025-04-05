@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Apr  5 14:48:45 PDT 2025
+last_modified_at: Sat Apr  5 15:08:46 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -15,7 +15,7 @@ last_modified_at: Sat Apr  5 14:48:45 PDT 2025
 <img style="min-width: 30%;" src="/assets/images/bio-photos/babang.jpg">
 </div>
 
-Byoung-il is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
+[Byoung-il](https://www.linkedin.com/in/byoung-il-bae-63b4a02a/) is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
 He specializes in brain development, leveraging insights from human genetic disorders and advanced model systems.
 He holds a Ph.D. in Neuroscience from Johns Hopkins University School of Medicine (2006) and a B.S. in Molecular Biology from Seoul National University (1998).
 Dr. Bae's academic journey includes a decade at Harvard Medical School as a Postdoctoral Fellow and Instructor in Pediatrics, followed by a role as an Associate Research Scientist in Neurosurgery at Yale School of Medicine.
@@ -31,7 +31,7 @@ Dr. Bae has authored key publications, including studies on alternative splicing
 <img style="width: 30%;" src="/assets/images/bio-photos/dayoung-00.jpeg">
 </div>
 
-Dayoung is an associate professor of law at Chungnam National University. She previously served as an assistant professor at Yeungnam University and has held visiting scholar positions at leading institutions, including the University of California, Berkeley, and Paris-Panthéon-Assas University.
+[Dayoung](https://www.linkedin.com/in/dayoungjeong/) is an associate professor of law at Chungnam National University. She previously served as an assistant professor at Yeungnam University and has held visiting scholar positions at leading institutions, including the University of California, Berkeley, and Paris-Panthéon-Assas University.
 
 Before entering academia, she built a solid foundation in public service, working as a deputy director at both the Defense Acquisition Program Administration and the Korea Ministry of Government Legislation. She passed the South Korean bar exam in 2008 and completed her judicial training at the Judicial Research and Training Institute.
 
@@ -43,7 +43,7 @@ Dayoung holds both bachelor's and master's degrees in law from Seoul National Un
 <img style="min-width: 30%;" src="/assets/images/bio-photos/hyung-jin.jpeg">
 </div>
 
-Gregory is
+[Gregory](https://www.linkedin.com/in/gregory-park-9231656b/) is
 a Senior Director at Korea Quantum Computing in Busan
 and
 the Founder/CTO of Quantum MicroMaterials Inc.
@@ -56,7 +56,7 @@ before founding multiple companies including Probus Medical Technologies and PYC
 <img src="/assets/images/bio-photos/gunsu-01.jpg">
 </div>
 
-Gunsun is a Professor of the Department of Physcis of POSTECH.
+[Gunsu](https://www.linkedin.com/in/gunsu-yun-77052475/) is a Professor of the Department of Physcis of POSTECH.
 He is a distinguished researcher specializing in plasma physics and magnetohydrodynamics (MHD).
 He earned his Ph.D. (2008) and M.S. (2004) in plasma physics from the California Institute of Technology and a B.S. (1998) from POSTECH.
 His research focuses on high-pressure plasma source technologies,
@@ -74,7 +74,7 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 <img style="min-width: 30%;" src="/assets/images/bio-photos/hongseok-01.jpg">
 </div>
 
-Hongseok is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
+[Hongseok](https://www.linkedin.com/in/hongseok-kim-09bb529/) is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
 He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea,
 and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA.
 He was a Post Doctoral Research Associate at Princeton University, and a Member of Technical Staff at Bell Laboratories Alcatel-Lucent, Murray Hill, USA.
@@ -89,7 +89,7 @@ He has been an IEEE Senior Member since 2016.
 <img style="min-width: 30%;" src="/assets/images/bio-photos/hyun-01.jpg">
 </div>
 
-Hyun is a Partner at SEUM Law specializing in intellectual property, bankruptcy, criminal, and family law. He previously served as a Judge at various courts in South Korea, including the Jeonju District Court, Jeju Branch of Gwangju High Court, Western Branch of the Busan District Court, and Seoul Central District Court, where he handled various case types including criminal, bankruptcy, family, and civil appeals. He also worked as a Research Judge at the Supreme Court of Korea on the IP team.
+[Hyun](https://www.linkedin.com/in/hyunnam/) is a Partner at SEUM Law specializing in intellectual property, bankruptcy, criminal, and family law. He previously served as a Judge at various courts in South Korea, including the Jeonju District Court, Jeju Branch of Gwangju High Court, Western Branch of the Busan District Court, and Seoul Central District Court, where he handled various case types including criminal, bankruptcy, family, and civil appeals. He also worked as a Research Judge at the Supreme Court of Korea on the IP team.
 
 His extensive legal career spans nearly two decades, including serving as Secretary General for the Korea Patent Law Society. During his judicial career, he gained broad expertise across multiple practice areas. He was also a Visiting Scholar at IIT Chicago-Kent College of Law.
 
@@ -101,7 +101,7 @@ Hyun received his B.S. in Chemical Technology from Seoul National University (19
 <img width="50%" src="/assets/images/bio-photos/natalie-01.jpeg">
 </div>
 
-Natalie is a Trial Attorney at Quinn Emanuel in Silicon Valley, specializing in intellectual property litigation.
+[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/) is a Trial Attorney at Quinn Emanuel in Silicon Valley, specializing in intellectual property litigation.
 Her legal career includes experience as an Associate at White & Case LLP and an externship with Judge Edward M. Chen at the U.S. District Court for the Northern District of California.
 Before transitioning to law, she worked in finance as a Trader at JPMorgan Chase & Co. in Hong Kong and ANZ in Seoul, followed by a role as Product Manager at PIMCO.
 
@@ -111,14 +111,24 @@ Natalie holds multiple professional certifications, including Patent Attorney an
 She has authored publications on patent law and U.S. financial markets, including analyses of Congressional actions affecting patent holders and investment strategies for Silicon Valley companies.
 Her unique combination of technical expertise, financial acumen, and legal knowledge provides a multidisciplinary perspective on intellectual property and technology law issues.
 
-
 # Sang Min Nam
 
 <div class="img-container">
 <img style="min-width: 30%;" src="/assets/images/bio-photos/sangmin.jpeg">
 </div>
 
-Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daechi Yonsei Eye Clinic
+<!--Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daechi Yonsei Eye Clinic-->
+
+[Sang Min](https://www.linkedin.com/in/namsm/)
+is the President of Daechi Yonsei Eye Clinic and a Deputy Director at the Institute of Biomedical Informatics, CHA University.
+He previously served as a Clinical Professor at CHA Bundang Medical Center for over 12 years, specializing in ophthalmology, cornea and external disease, corneal transplantation, ocular infectious disease, cataract surgery, and contact lenses.
+
+His professional experience includes roles as Associate Executive Director of the Korean Society of Cataract and Refractive Surgery, Team Manager of the Data Science team at Future Medicine Research Institute, and a Flight Surgeon in the Republic of Korea Air Force.
+His academic training includes a fellowship and residency at Severance Hospital in the Department of Ophthalmology.
+
+Dr. Nam combines medical expertise with data science skills, having completed a visiting scholarship focused on data science and ophthalmology at the University of California, San Francisco.
+He holds a Ph.D. in Medicine from Pochon CHA University, an M.D. and Master of Medical Science from Yonsei University, and a Bachelor's Degree in Biology from Seoul National University.
+His interdisciplinary approach bridges ophthalmology with programming and data analysis using R and Python, creating innovative solutions at the intersection of medicine and technology.
 
 # Seonhee Lim
 
@@ -127,7 +137,7 @@ Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daech
 </div>
 
 
-Seonhee is a Professor in the Department of Mathematical Sciences at Seoul National University. Her research focuses on homogeneous dynamics and number theory, geometric group theory, and the dynamics of group actions on trees and metric spaces of non-positive curvature. She specializes in group actions on homogeneous spaces with applications to number theory, lattices of Lie groups, entropy rigidity, and thermodynamics formalism.
+[Seonhee](https://www.math.snu.ac.kr/~lim/) is a Professor in the Department of Mathematical Sciences at Seoul National University. Her research focuses on homogeneous dynamics and number theory, geometric group theory, and the dynamics of group actions on trees and metric spaces of non-positive curvature. She specializes in group actions on homogeneous spaces with applications to number theory, lattices of Lie groups, entropy rigidity, and thermodynamics formalism.
 
 She is an active organizer of mathematical conferences and seminars, including the "Dynamics & Number Theory" seminar and various workshops on dynamical systems and number theory. Her international recognition is evidenced by numerous invited talks at prestigious institutions worldwide, including lectures at IISER-Pune in India, KIAS in Korea, universities in England, Germany, Switzerland, Singapore, Australia, and the United States.
 
@@ -177,6 +187,14 @@ of <a href="https://www.dgist.ac.kr/en_eecs/">the Department of Electrical Engin
 and
 Network Expert Consultant
 @ <a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>
+He holds M.S. &amp; Ph.D.
+in <a href="https://ee.stanford.edu/">Electrical Engineering</a>
+from <a href="https://www.stanford.edu/">Stanford University</a>
+and
+B.S.
+in <a href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
+from <a href="https://en.snu.ac.kr">Seoul National University</a>.
+
 Before founding the new AI biotech company,
 he co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/), an industrial AI company,
 built and ran the US Headquarters of [Gauss Labs](https://www.gausslabs.ai/),
@@ -186,6 +204,7 @@ Chief Applied Scientist & Senior Fellow.
 Before [Gauss Labs](https://www.gausslabs.ai/),
 he drove various AI technology and product developments and productionizations in the field of e-Commerce @ [Amazon.com, Inc.](https://www.amazon.com/)
 where one of his projects created a 200 USD revenue increase via [the Amazon Mobile Shopping App](https://www.amazon.com/b?ie=UTF8&node=17442765011).
+
 Before Amazon, he worked for Software Research Center, Strategic Sales & Marketing Team,
 Design Technology (DT) Team & Computer-Aided Engineering (CAE) Team of [Samsung Semiconductor, Inc.](https://semiconductor.samsung.com/)
 where he developed diverse AI and optimization tools for semiconductor chip designers,
@@ -199,13 +218,6 @@ founded <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a> running US Headq
 as CTO, Chief Applied Scientist &amp; Senior Fellow.-->
 <!--He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and Vice President (VP)
 and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
-He holds M.S. &amp; Ph.D.
-in <a href="https://ee.stanford.edu/">Electrical Engineering</a>
-from <a href="https://www.stanford.edu/">Stanford University</a>
-and
-B.S.
-in <a href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
-from <a href="https://en.snu.ac.kr">Seoul National University</a>.
 
 # Yoonhak Baek
 
@@ -213,7 +225,7 @@ from <a href="https://en.snu.ac.kr">Seoul National University</a>.
 <img src="/assets/images/bio-photos/yoonhak-00.jpeg">
 </div>
 
-Yoonhak Baek is a conductor and professor @ Yeungnam University, Korea.
+[Yoonhak](https://www.chosun.com/site/data/html_dir/2018/08/03/2018080300096.html) is a conductor and professor @ Yeungnam University, Korea.
 He used to serve as the Artistic Director @ Concert Opera Philadelphia and Associate Conductor &amp; Chorus Master @ Opera Delaware,
 while also being the Music Director @ Gloria Youth Orchestra in New Jersey.
 He has conducted major orchestras including Seoul Philharmonic, Opera Delaware Orchestra, and Sofia Festival Orchestra,

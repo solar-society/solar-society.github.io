@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Apr  4 21:54:28 PDT 2025
+last_modified_at: Sat Apr  5 14:48:45 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -135,13 +135,30 @@ She is an active organizer of mathematical conferences and seminars, including t
 Professor Lim has delivered lecture series on topics such as "Homogeneous Dynamics and Number Theory" and "Random Walks and Spectral Gaps on Graphs," as well as public lectures making complex mathematical concepts accessible. She has also given special talks on the work of Fields medalists, demonstrating her ability to communicate advanced mathematical ideas to broader audiences.
 -->
 
+# Soojin Kim
+
+<div class="img-container">
+<img width="50%" src="/assets/images/bio-photos/soojin-01.jpeg">
+</div>
+
+[Soojin](https://www.linkedin.com/in/soojin-kim-cellmolbio/) is a Senior Scientist at Genentech with over a decade of specialized experience in iPSC-based neurodegenerative disease research.
+Her expertise centers on organelle pathobiology using iPSC-derived neurons and glial cells, combined with CRISPR/Cas9 genome editing and advanced imaging techniques.
+Her previous academic appointments include Postdoctoral Research Fellow positions at UC San Diego and Northwestern Memorial Hospital.
+
+Her research contributions include significant publications on organelle membrane contact sites in neurological diseases, mitochondrial dynamics and network regulation, and iPSC-based disease modeling.
+As a Silver medalist in the International Biology Olympiad, she demonstrated early scientific promise that has continued throughout her career.
+
+Soojin earned her Ph.D. in Neuroscience from Northwestern University, where she also completed a specialized management program for scientists at the Kellogg School of Management.
+She received her Bachelor of Science in Biological Sciences with a combined minor in Brain-Mind-Behavior from Seoul National University after graduating from Seoul Science High School.
+Her interdisciplinary background bridges neuroscience, cell biology, and translational research for drug discovery applications.
+
 # Sunghee Yun
 
 <div class="img-container">
 <img src="/assets/images/bio-photos/sunghee-04.jpg">
 </div>
 
-<a href="https://sungheeyun.github.io/">Sunghee</a> is Co-founder &amp; CTO
+[Sunghee](https://sungheeyun.github.io/) is Co-founder &amp; CTO
 @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
 Chief Business Development Officer (CBDO)
 @ <a href="https://westory.ai/">WeStory.ai, CA, USA</a>,

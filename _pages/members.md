@@ -6,13 +6,13 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Apr  5 15:13:32 PDT 2025
+last_modified_at: Mon Apr  7 23:53:35 PDT 2025
 ---
 
 # Byoung-Il Bae
 
 <div class="img-container">
-<img style="min-width: 30%;" src="/assets/images/bio-photos/babang.jpg">
+<img width="30%" src="/assets/images/bio-photos/babang.jpg">
 </div>
 
 [Byoung-il](https://www.linkedin.com/in/byoung-il-bae-63b4a02a/) is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
@@ -28,7 +28,7 @@ Dr. Bae has authored key publications, including studies on alternative splicing
 # Dayoung Jeong
 
 <div class="img-container">
-<img style="width: 30%;" src="/assets/images/bio-photos/dayoung-00.jpeg">
+<img width="50%;" src="/assets/images/bio-photos/dayoung-00.jpeg">
 </div>
 
 [Dayoung](https://www.linkedin.com/in/dayoungjeong/) is an associate professor of law at Chungnam National University. She previously served as an assistant professor at Yeungnam University and has held visiting scholar positions at leading institutions, including the University of California, Berkeley, and Paris-Panthéon-Assas University.
@@ -40,7 +40,7 @@ Dayoung holds both bachelor's and master's degrees in law from Seoul National Un
 # Gregory Hyung Jin Park
 
 <div class="img-container">
-<img style="min-width: 30%;" src="/assets/images/bio-photos/hyung-jin.jpeg">
+<img width="30%" src="/assets/images/bio-photos/hyung-jin.jpeg">
 </div>
 
 [Gregory](https://www.linkedin.com/in/gregory-park-9231656b/)
@@ -56,7 +56,7 @@ His expertise brings valuable insights to the intersection of quantum technologi
 # Gunsu Yun
 
 <div class="img-container">
-<img src="/assets/images/bio-photos/gunsu-01.jpg">
+<img width="80%" src="/assets/images/bio-photos/gunsu-01.jpg">
 </div>
 
 [Gunsu](https://www.linkedin.com/in/gunsu-yun-77052475/) is a Professor of the Department of Physcis of POSTECH.
@@ -74,7 +74,7 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 # Hongseok Kim
 
 <div class="img-container">
-<img style="min-width: 30%;" src="/assets/images/bio-photos/hongseok-01.jpg">
+<img width="30%" src="/assets/images/bio-photos/hongseok-01.jpg">
 </div>
 
 [Hongseok](https://www.linkedin.com/in/hongseok-kim-09bb529/) is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
@@ -89,7 +89,7 @@ He has been an IEEE Senior Member since 2016.
 # Hyun Nam
 
 <div class="img-container">
-<img style="min-width: 30%;" src="/assets/images/bio-photos/hyun-01.jpg">
+<img width="30%" src="/assets/images/bio-photos/hyun-01.jpg">
 </div>
 
 [Hyun](https://www.linkedin.com/in/hyunnam/) is a Partner at SEUM Law specializing in intellectual property, bankruptcy, criminal, and family law. He previously served as a Judge at various courts in South Korea, including the Jeonju District Court, Jeju Branch of Gwangju High Court, Western Branch of the Busan District Court, and Seoul Central District Court, where he handled various case types including criminal, bankruptcy, family, and civil appeals. He also worked as a Research Judge at the Supreme Court of Korea on the IP team.
@@ -117,7 +117,7 @@ Her unique combination of technical expertise, financial acumen, and legal knowl
 # Sang Min Nam
 
 <div class="img-container">
-<img style="min-width: 30%;" src="/assets/images/bio-photos/sangmin.jpeg">
+<img width="30%" src="/assets/images/bio-photos/sangmin.jpeg">
 </div>
 
 <!--Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daechi Yonsei Eye Clinic-->
@@ -136,7 +136,7 @@ His interdisciplinary approach bridges ophthalmology with programming and data a
 # Seonhee Lim
 
 <div class="img-container">
-<img style="min-width: 30%;" src="/assets/images/bio-photos/seonhee-03.jpeg">
+<img width="30%" src="/assets/images/bio-photos/seonhee-03.jpeg">
 </div>
 
 
@@ -168,7 +168,7 @@ Her interdisciplinary background bridges neuroscience, cell biology, and transla
 # Sunghee Yun
 
 <div class="img-container">
-<img src="/assets/images/bio-photos/sunghee-04.jpg">
+<img width="80%" src="/assets/images/bio-photos/sunghee-04.jpg">
 </div>
 
 [Sunghee](https://sungheeyun.github.io/) is Co-founder &amp; CTO
@@ -225,7 +225,7 @@ and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that gen
 # Yoonhak Baek
 
 <div class="img-container">
-<img src="/assets/images/bio-photos/yoonhak-00.jpeg">
+<img width="80%" src="/assets/images/bio-photos/yoonhak-00.jpeg">
 </div>
 
 [Yoonhak](https://www.chosun.com/site/data/html_dir/2018/08/03/2018080300096.html) is a conductor and professor @ Yeungnam University, Korea.

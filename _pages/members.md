@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Mon Apr  7 23:53:35 PDT 2025
+last_modified_at: Tue Apr  8 17:13:09 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -117,21 +117,32 @@ Her unique combination of technical expertise, financial acumen, and legal knowl
 # Sang Min Nam
 
 <div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/sangmin.jpeg">
+<img width="30%" src="/assets/images/bio-photos/sangmin-02.png">
 </div>
 
-<!--Research Professor, Biomedical informatics, Ophthalmology, CHA university; Daechi Yonsei Eye Clinic-->
-
 [Sang Min](https://www.linkedin.com/in/namsm/)
-is the President of Daechi Yonsei Eye Clinic and a Deputy Director at the Institute of Biomedical Informatics, CHA University.
-He previously served as a Clinical Professor at CHA Bundang Medical Center for over 12 years, specializing in ophthalmology, cornea and external disease, corneal transplantation, ocular infectious disease, cataract surgery, and contact lenses.
+is a board-certified ophthalmologist and physician-scientist specializing in cornea and external eye diseases,
+cataract surgery, and biomedical informatics.
+He serves as Co-director of Daechi Yonsei Eye Clinic in Seoul and as a Research Professor
+at CHA University School of Medicine.
 
-His professional experience includes roles as Associate Executive Director of the Korean Society of Cataract and Refractive Surgery, Team Manager of the Data Science team at Future Medicine Research Institute, and a Flight Surgeon in the Republic of Korea Air Force.
-His academic training includes a fellowship and residency at Severance Hospital in the Department of Ophthalmology.
+With a multidisciplinary academic background from Yonsei University, Severance Hospital, CHA University,
+and the University of California, San Francisco,
+he operates at the intersection of clinical medicine and advanced data science.
+He has contributed to the creation of AI-based tools for diagnosing disease using multimodal data,
+including combinations of medical imaging and clinical tests.
+His work spans conditions such as chronic kidney disease—using retinal images
+and urine dipstick data—and dry eye disease, analyzed through national health and nutrition survey datasets.
 
-Dr. Nam combines medical expertise with data science skills, having completed a visiting scholarship focused on data science and ophthalmology at the University of California, San Francisco.
-He holds a Ph.D. in Medicine from Pochon CHA University, an M.D. and Master of Medical Science from Yonsei University, and a Bachelor's Degree in Biology from Seoul National University.
-His interdisciplinary approach bridges ophthalmology with programming and data analysis using R and Python, creating innovative solutions at the intersection of medicine and technology.
+His broader research interests lie in data-driven healthcare,
+where he leverages computational tools such as ML
+and network analysis to reveal hidden patterns and relationships across large-scale population datasets.
+His efforts aim to enhance early detection,
+enable personalized care, and promote preventive strategies in both systemic and ophthalmic health.
+He is the author of numerous peer-reviewed publications,
+holds patents in AI-assisted diagnostics, and serves in leadership roles within professional societies.
+He is committed to shaping a future in which algorithmic insight augments medical practice for smarter,
+more accessible, and human-centered care.
 
 # Seonhee Lim
 

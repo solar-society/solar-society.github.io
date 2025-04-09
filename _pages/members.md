@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Apr  8 17:13:09 PDT 2025
+last_modified_at: Tue Apr  8 17:16:57 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -117,7 +117,7 @@ Her unique combination of technical expertise, financial acumen, and legal knowl
 # Sang Min Nam
 
 <div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/sangmin-02.png">
+<img width="50%" src="/assets/images/bio-photos/sangmin-02.png">
 </div>
 
 [Sang Min](https://www.linkedin.com/in/namsm/)

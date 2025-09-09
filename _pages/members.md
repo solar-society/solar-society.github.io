@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Sep  9 01:37:24 PDT 2025
+last_modified_at: Tue Sep  9 02:06:11 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -196,25 +196,30 @@ Her interdisciplinary background bridges neuroscience, cell biology, and transla
 <img width="80%" src="/assets/images/bio-photos/sunghee-04.jpg">
 </div>
 
-[Sunghee](https://sungheeyun.github.io/) is Co-founder &amp; CTO
+[Sunghee](https://sungheeyun.github.io/) is
+Co-founder &amp; CTO
 @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
-Chief Business Development Officer (CBDO)
-@ <a href="https://westory.ai/">WeStory.ai, CA, USA</a>,
-Advisor &amp; Evangelist
-@ <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>,
+Co-founder &amp; CEO
+@ Erudio Bio Korea, Inc., Korea,
 <a href="https://www.salzburgglobal.org/news/latest-news/article/introducing-the-second-cohort-of-the-kfas-salzburg-global-leadership-initiative">KFAS-Salzburg Global Leadership Initiative Fellow</a>
 @ <a href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
+AI-Korean Medicine Integration Initiative Task Force Member
+@ <a href="https://www.akom.org/">The Association of Korean Medicine</a>,
+<a href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Global Advisory Board Member</a>
+@ <a href="https://bk4semicon.sogang.ac.kr/kor/main/">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>,
 <a href="https://ee.sogang.ac.kr/eng/employee/professor03.php">an Adjunct Professor</a>
 of <a href="https://ee.sogang.ac.kr/eng/main/">the Department of Electronic Engineering</a>
 @ <a href="https://www.sogang.ac.kr/en/home">Sogang University, Seoul, South Korea</a>,
 <a href="https://www.dgist.ac.kr/prog/peopleProfsr/en_eecs/sub02_01/list.do">an Advisory Professor</a>
 of <a href="https://www.dgist.ac.kr/en_eecs/">the Department of Electrical Engineering &amp; Computer Science (EECS)</a>
 @ <a href="https://www.dgist.ac.kr/">Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST), South Korea</a>,
-<a href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Global Advisory Board Member</a>
-@ <a href="https://bk4semicon.sogang.ac.kr/kor/main/">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>,
-and
 Network Expert Consultant
-@ <a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>
+@ <a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>,
+Chief Business Development Officer (CBDO)
+@ <a href="https://westory.ai/">WeStory.ai, CA, USA</a>,
+and
+Advisor
+@ <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>.
 He holds M.S. &amp; Ph.D.
 in <a href="https://ee.stanford.edu/">Electrical Engineering</a>
 from <a href="https://www.stanford.edu/">Stanford University</a>
@@ -232,7 +237,6 @@ Chief Applied Scientist & Senior Fellow.
 Before [Gauss Labs](https://www.gausslabs.ai/),
 he drove various AI technology and product developments and productionizations in the field of e-Commerce @ [Amazon.com, Inc.](https://www.amazon.com/)
 where one of his projects created a 200 USD revenue increase via [the Amazon Mobile Shopping App](https://www.amazon.com/b?ie=UTF8&node=17442765011).
-
 Before Amazon, he worked for Software Research Center, Strategic Sales & Marketing Team,
 Design Technology (DT) Team & Computer-Aided Engineering (CAE) Team of [Samsung Semiconductor, Inc.](https://semiconductor.samsung.com/)
 where he developed diverse AI and optimization tools for semiconductor chip designers,

@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Apr  8 17:16:57 PDT 2025
+last_modified_at: Tue Sep  9 01:17:45 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -70,6 +70,20 @@ discovering dynamic equilibria and phase transitions of MHD modes in fusion plas
 identifying a universal colliation mechanism for current-carrying flux tubes,
 and
 extending the gas breakdown law to high-frequency, high-pressure conditions.
+
+# Jae-Eun Paik
+
+<div class="img-container">
+<img width="50%" src="/assets/images/bio-photos/jae-eun.jpg">
+</div>
+
+[Jae-Eun](https://www.seoulphil.or.kr/spo/artist/detail?langCd=ko&menuFlag=MFLG0001&postNo=3324) is a distinguished mezzo-soprano known as "Korea's Carmen" for her acclaimed performances in this iconic role. She has performed internationally with Korean National Opera, Poland National Opera, and major American opera companies including Virginia Opera and Shreveport Opera. Her performances have been praised by The Washington Post for her "deeply appealing voice" and by The Chautauqua Daily for her "well produced dark sonority, vocal intensity and dramatic rightness."
+
+She has appeared in leading roles in operas including Carmen, Così fan tutte, Rigoletto, Madama Butterfly, Les Contes d'Hoffmann, and many others. Her concert work spans collaborations with New England Chamber Orchestra, KBS Orchestra, Seoul National University Orchestra, and Pohang City Orchestra, performing major works including Handel's Messiah, Mozart's Requiem, and Bach's Mass in B Minor. She has performed under renowned conductor Myung-Hun Chung in Mahler's Symphony No. 8 and Beethoven's Symphony No. 9.
+
+Her accolades include winning the Metropolitan Opera National Council Regional Award (2005), receiving "Singer of the Year" awards from Shreveport Opera (2004, 2005), and earning the Newcomer Award at the Korea Opera Awards (2009). She graduated from Seoul National University (B.M.) and earned her Master's degree and Professional Diploma at Mannes College of Music in New York City.
+
+Currently teaching at Seoul National University, she recently authored "Dear My Opera" (디어 마이 오페라), a book introducing eleven essential operas to make this art form more accessible to the public. Her work bridges high art and popular culture, demonstrating how classical music can serve as a gateway to understanding human emotions and cultural narratives. Her unique perspective on cultural communication and arts education brings valuable insights to discussions about technology's role in preserving and transforming artistic expression.
 
 # Hongseok Kim
 

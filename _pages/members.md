@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Sep  9 01:17:45 PDT 2025
+last_modified_at: Tue Sep  9 01:37:24 PDT 2025
 ---
 
 # Byoung-Il Bae
@@ -83,7 +83,7 @@ She has appeared in leading roles in operas including Carmen, Così fan tutte, R
 
 Her accolades include winning the Metropolitan Opera National Council Regional Award (2005), receiving "Singer of the Year" awards from Shreveport Opera (2004, 2005), and earning the Newcomer Award at the Korea Opera Awards (2009). She graduated from Seoul National University (B.M.) and earned her Master's degree and Professional Diploma at Mannes College of Music in New York City.
 
-Currently teaching at Seoul National University, she recently authored "Dear My Opera" (디어 마이 오페라), a book introducing eleven essential operas to make this art form more accessible to the public. Her work bridges high art and popular culture, demonstrating how classical music can serve as a gateway to understanding human emotions and cultural narratives. Her unique perspective on cultural communication and arts education brings valuable insights to discussions about technology's role in preserving and transforming artistic expression.
+She recently authored "Dear My Opera" (디어 마이 오페라), a book introducing eleven essential operas to make this art form more accessible to the public. Her work bridges high art and popular culture, demonstrating how classical music can serve as a gateway to understanding human emotions and cultural narratives. Her unique perspective on cultural communication and arts education brings valuable insights to discussions about technology's role in preserving and transforming artistic expression.
 
 # Hongseok Kim
 

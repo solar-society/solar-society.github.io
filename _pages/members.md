@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Sep  9 02:06:11 PDT 2025
+last_modified_at: Fri Dec 26 05:58:41 PST 2025
 ---
 
 # Byoung-Il Bae
@@ -196,37 +196,41 @@ Her interdisciplinary background bridges neuroscience, cell biology, and transla
 <img width="80%" src="/assets/images/bio-photos/sunghee-04.jpg">
 </div>
 
-[Sunghee](https://sungheeyun.github.io/) is
+<a href="https://sungheeyun.github.io/">Sunghee</a> is
 Co-founder &amp; CTO
-@ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc., CA, USA</a>,
+@ <a target="_blank" href="https://www.erudio.bio">Erudio Bio, Inc., CA, USA</a>,
 Co-founder &amp; CEO
-@ Erudio Bio Korea, Inc., Korea,
-<a href="https://www.salzburgglobal.org/news/latest-news/article/introducing-the-second-cohort-of-the-kfas-salzburg-global-leadership-initiative">KFAS-Salzburg Global Leadership Initiative Fellow</a>
-@ <a href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
+@ <a target="_blank" href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea, Inc., Korea</a>
+Leader
+of <a target="_blank" href="https://k-privateai.github.io">Silicon Valley Privacy-Preserving AI Forum (K-PAI)</a>,
+CGO / Global Managing Partner
+@ <a target="_blank" href="https://www.lulumedic.com/en/">LULUMEDIC</a>,
+<a target="_blank" href="https://www.salzburgglobal.org/news/latest-news/article/introducing-the-second-cohort-of-the-kfas-salzburg-global-leadership-initiative">KFAS-Salzburg Global Leadership Initiative Fellow</a>
+@ <a target="_blank" href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
 AI-Korean Medicine Integration Initiative Task Force Member
-@ <a href="https://www.akom.org/">The Association of Korean Medicine</a>,
-<a href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Global Advisory Board Member</a>
-@ <a href="https://bk4semicon.sogang.ac.kr/kor/main/">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>,
-<a href="https://ee.sogang.ac.kr/eng/employee/professor03.php">an Adjunct Professor</a>
-of <a href="https://ee.sogang.ac.kr/eng/main/">the Department of Electronic Engineering</a>
-@ <a href="https://www.sogang.ac.kr/en/home">Sogang University, Seoul, South Korea</a>,
-<a href="https://www.dgist.ac.kr/prog/peopleProfsr/en_eecs/sub02_01/list.do">an Advisory Professor</a>
-of <a href="https://www.dgist.ac.kr/en_eecs/">the Department of Electrical Engineering &amp; Computer Science (EECS)</a>
-@ <a href="https://www.dgist.ac.kr/">Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST), South Korea</a>,
+@ <a target="_blank" href="https://www.akom.org/">The Association of Korean Medicine</a>,
+<a target="_blank" href="https://ee.sogang.ac.kr/eng/employee/professor03.php">an Visiting Professor</a>
+of <a target="_blank" href="https://ee.sogang.ac.kr/eng/main/">the Department of Electronic Engineering</a>
+@ <a target="_blank" href="https://www.sogang.ac.kr/en/home">Sogang University, Seoul, South Korea</a>,
+<a target="_blank" href="https://www.dgist.ac.kr/prog/peopleProfsr/en_eecs/sub02_01/list.do">an Advisory Professor</a>
+of <a target="_blank" href="https://www.dgist.ac.kr/en_eecs/">the Department of Electrical Engineering &amp; Computer Science (EECS)</a>
+@ <a target="_blank" href="https://www.dgist.ac.kr/">Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST), South Korea</a>,
+<a target="_blank" href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Global Advisory Board Member</a>
+@ <a target="_blank" href="https://bk4semicon.sogang.ac.kr/kor/main/">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>,
 Network Expert Consultant
-@ <a href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>,
+@ <a target="_blank" href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>,
 Chief Business Development Officer (CBDO)
-@ <a href="https://westory.ai/">WeStory.ai, CA, USA</a>,
+@ <a target="_blank" href="https://westory.ai/">WeStory.ai, CA, USA</a>,
 and
 Advisor
-@ <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>.
+@ <a target="_blank" href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>.
 He holds M.S. &amp; Ph.D.
-in <a href="https://ee.stanford.edu/">Electrical Engineering</a>
-from <a href="https://www.stanford.edu/">Stanford University</a>
+in <a target="_blank" href="https://ee.stanford.edu/">Electrical Engineering</a>
+from <a target="_blank" href="https://www.stanford.edu/">Stanford University</a>
 and
 B.S.
-in <a href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
-from <a href="https://en.snu.ac.kr">Seoul National University</a>.
+in <a target="_blank" href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
+from <a target="_blank" href="https://en.snu.ac.kr">Seoul National University</a>.
 
 Before founding the new AI biotech company,
 he co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/), an industrial AI company,

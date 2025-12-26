@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 06:01:14 PST 2025
+last_modified_at: Fri Dec 26 10:26:41 PST 2025
 ---
 
 # Byoung-Il Bae
@@ -15,7 +15,7 @@ last_modified_at: Fri Dec 26 06:01:14 PST 2025
 <img width="30%" src="/assets/images/bio-photos/babang.jpg">
 </div>
 
-[Byoung-il](https://www.linkedin.com/in/byoung-il-bae-63b4a02a/) is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
+[Byoung-il](https://www.linkedin.com/in/byoung-il-bae-63b4a02a/){:target="_blank"} is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
 He specializes in brain development, leveraging insights from human genetic disorders and advanced model systems.
 He holds a Ph.D. in Neuroscience from Johns Hopkins University School of Medicine (2006) and a B.S. in Molecular Biology from Seoul National University (1998).
 Dr. Bae's academic journey includes a decade at Harvard Medical School as a Postdoctoral Fellow and Instructor in Pediatrics, followed by a role as an Associate Research Scientist in Neurosurgery at Yale School of Medicine.
@@ -31,7 +31,7 @@ Dr. Bae has authored key publications, including studies on alternative splicing
 <img width="50%;" src="/assets/images/bio-photos/dayoung-00.jpeg">
 </div>
 
-[Dayoung](https://www.linkedin.com/in/dayoungjeong/) is an associate professor of law at Chungnam National University. She previously served as an assistant professor at Yeungnam University and has held visiting scholar positions at leading institutions, including the University of California, Berkeley, and Paris-Panthéon-Assas University.
+[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"} is an associate professor of law at Chungnam National University. She previously served as an assistant professor at Yeungnam University and has held visiting scholar positions at leading institutions, including the University of California, Berkeley, and Paris-Panthéon-Assas University.
 
 Before entering academia, she built a solid foundation in public service, working as a deputy director at both the Defense Acquisition Program Administration and the Korea Ministry of Government Legislation. She passed the South Korean bar exam in 2008 and completed her judicial training at the Judicial Research and Training Institute.
 
@@ -43,8 +43,7 @@ Dayoung holds both bachelor's and master's degrees in law from Seoul National Un
 <img width="30%" src="/assets/images/bio-photos/hyung-jin.jpeg">
 </div>
 
-[Gregory](https://www.linkedin.com/in/gregory-park-9231656b/)
-is a Senior Director at Korea Quantum Computing in Busan and the Founder/CTO of Quantum MicroMaterials Inc.
+[Gregory](https://www.linkedin.com/in/gregory-park-9231656b/){:target="_blank"} is a Senior Director at Korea Quantum Computing in Busan and the Founder/CTO of Quantum MicroMaterials Inc.
 His entrepreneurial career includes founding multiple technology ventures, serving as Founder, COO & CTO of Probus Medical Technologies since 2019, and as Founder & CEO of PYCh Science Inc. from 2014 to 2019.
 
 His professional background includes scientific research and industry experience, having worked as a Scientist at the Korea Basic Science Institute (KBSI) and as a Senior Engineer at Samsung Display, which branched out from the LCD Division of Samsung Electronics Co. Ltd. in 2012.
@@ -59,7 +58,7 @@ His expertise brings valuable insights to the intersection of quantum technologi
 <img width="80%" src="/assets/images/bio-photos/gunsu-01.jpg">
 </div>
 
-[Gunsu](https://www.linkedin.com/in/gunsu-yun-77052475/) is a Professor of the Department of Physcis of POSTECH.
+[Gunsu](https://www.linkedin.com/in/gunsu-yun-77052475/){:target="_blank"} is a Professor of the Department of Physcis of POSTECH.
 He is a distinguished researcher specializing in plasma physics and magnetohydrodynamics (MHD).
 He earned his Ph.D. (2008) and M.S. (2004) in plasma physics from the California Institute of Technology and a B.S. (1998) from POSTECH.
 His research focuses on high-pressure plasma source technologies,
@@ -77,7 +76,7 @@ extending the gas breakdown law to high-frequency, high-pressure conditions.
 <img width="50%" src="/assets/images/bio-photos/jae-eun.jpg">
 </div>
 
-[Jae-Eun](https://www.seoulphil.or.kr/spo/artist/detail?langCd=ko&menuFlag=MFLG0001&postNo=3324) is a distinguished mezzo-soprano known as "Korea's Carmen" for her acclaimed performances in this iconic role. She has performed internationally with Korean National Opera, Poland National Opera, and major American opera companies including Virginia Opera and Shreveport Opera. Her performances have been praised by The Washington Post for her "deeply appealing voice" and by The Chautauqua Daily for her "well produced dark sonority, vocal intensity and dramatic rightness."
+[Jae-Eun](https://www.seoulphil.or.kr/spo/artist/detail?langCd=ko&menuFlag=MFLG0001&postNo=3324){:target="_blank"} is a distinguished mezzo-soprano known as "Korea's Carmen" for her acclaimed performances in this iconic role. She has performed internationally with Korean National Opera, Poland National Opera, and major American opera companies including Virginia Opera and Shreveport Opera. Her performances have been praised by The Washington Post for her "deeply appealing voice" and by The Chautauqua Daily for her "well produced dark sonority, vocal intensity and dramatic rightness."
 
 She has appeared in leading roles in operas including Carmen, Così fan tutte, Rigoletto, Madama Butterfly, Les Contes d'Hoffmann, and many others. Her concert work spans collaborations with New England Chamber Orchestra, KBS Orchestra, Seoul National University Orchestra, and Pohang City Orchestra, performing major works including Handel's Messiah, Mozart's Requiem, and Bach's Mass in B Minor. She has performed under renowned conductor Myung-Hun Chung in Mahler's Symphony No. 8 and Beethoven's Symphony No. 9.
 
@@ -91,7 +90,7 @@ She recently authored "Dear My Opera" (디어 마이 오페라), a book introduc
 <img width="30%" src="/assets/images/bio-photos/hongseok-01.jpg">
 </div>
 
-[Hongseok](https://www.linkedin.com/in/hongseok-kim-09bb529/) is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
+[Hongseok](https://www.linkedin.com/in/hongseok-kim-09bb529/){:target="_blank"} is a Professor in the Department of Electronic Engineering @ <a href="https://sogang.ac.kr/en">Sogang University</a>.
 He received his B.S. and M.S. degrees in the School of Electrical Engineering from Seoul National University, South Korea,
 and his Ph.D. degree in the Department of Electrical and Computer Engineering at The University of Texas at Austin, USA.
 He was a Post Doctoral Research Associate at Princeton University, and a Member of Technical Staff at Bell Laboratories Alcatel-Lucent, Murray Hill, USA.
@@ -106,7 +105,7 @@ He has been an IEEE Senior Member since 2016.
 <img width="30%" src="/assets/images/bio-photos/hyun-01.jpg">
 </div>
 
-[Hyun](https://www.linkedin.com/in/hyunnam/) is a Partner at SEUM Law specializing in intellectual property, bankruptcy, criminal, and family law. He previously served as a Judge at various courts in South Korea, including the Jeonju District Court, Jeju Branch of Gwangju High Court, Western Branch of the Busan District Court, and Seoul Central District Court, where he handled various case types including criminal, bankruptcy, family, and civil appeals. He also worked as a Research Judge at the Supreme Court of Korea on the IP team.
+[Hyun](https://www.linkedin.com/in/hyunnam/){:target="_blank"} is a Partner at SEUM Law specializing in intellectual property, bankruptcy, criminal, and family law. He previously served as a Judge at various courts in South Korea, including the Jeonju District Court, Jeju Branch of Gwangju High Court, Western Branch of the Busan District Court, and Seoul Central District Court, where he handled various case types including criminal, bankruptcy, family, and civil appeals. He also worked as a Research Judge at the Supreme Court of Korea on the IP team.
 
 His extensive legal career spans nearly two decades, including serving as Secretary General for the Korea Patent Law Society. During his judicial career, he gained broad expertise across multiple practice areas. He was also a Visiting Scholar at IIT Chicago-Kent College of Law.
 
@@ -118,7 +117,7 @@ Hyun received his B.S. in Chemical Technology from Seoul National University (19
 <img width="50%" src="/assets/images/bio-photos/natalie-01.jpeg">
 </div>
 
-[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/) is a Trial Attorney at Quinn Emanuel in Silicon Valley, specializing in intellectual property litigation.
+[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"} is a Trial Attorney at Quinn Emanuel in Silicon Valley, specializing in intellectual property litigation.
 Her legal career includes experience as an Associate at White & Case LLP and an externship with Judge Edward M. Chen at the U.S. District Court for the Northern District of California.
 Before transitioning to law, she worked in finance as a Trader at JPMorgan Chase & Co. in Hong Kong and ANZ in Seoul, followed by a role as Product Manager at PIMCO.
 
@@ -134,8 +133,7 @@ Her unique combination of technical expertise, financial acumen, and legal knowl
 <img width="50%" src="/assets/images/bio-photos/sangmin-02.png">
 </div>
 
-[Sang Min](https://www.linkedin.com/in/namsm/)
-is a board-certified ophthalmologist and physician-scientist specializing in cornea and external eye diseases,
+[Sang Min](https://www.linkedin.com/in/namsm/){:target="_blank"} is a board-certified ophthalmologist and physician-scientist specializing in cornea and external eye diseases,
 cataract surgery, and biomedical informatics.
 He serves as Co-director of Daechi Yonsei Eye Clinic in Seoul and as a Research Professor
 at CHA University School of Medicine.
@@ -165,7 +163,7 @@ more accessible, and human-centered care.
 </div>
 
 
-[Seonhee](https://www.math.snu.ac.kr/~lim/) is a Professor in the Department of Mathematical Sciences at Seoul National University. Her research focuses on homogeneous dynamics and number theory, geometric group theory, and the dynamics of group actions on trees and metric spaces of non-positive curvature. She specializes in group actions on homogeneous spaces with applications to number theory, lattices of Lie groups, entropy rigidity, and thermodynamics formalism.
+[Seonhee](https://www.math.snu.ac.kr/~lim/){:target="_blank"} is a Professor in the Department of Mathematical Sciences at Seoul National University. Her research focuses on homogeneous dynamics and number theory, geometric group theory, and the dynamics of group actions on trees and metric spaces of non-positive curvature. She specializes in group actions on homogeneous spaces with applications to number theory, lattices of Lie groups, entropy rigidity, and thermodynamics formalism.
 
 She is an active organizer of mathematical conferences and seminars, including the "Dynamics & Number Theory" seminar and various workshops on dynamical systems and number theory. Her international recognition is evidenced by numerous invited talks at prestigious institutions worldwide, including lectures at IISER-Pune in India, KIAS in Korea, universities in England, Germany, Switzerland, Singapore, Australia, and the United States.
 
@@ -179,7 +177,7 @@ Professor Lim has delivered lecture series on topics such as "Homogeneous Dynami
 <img width="50%" src="/assets/images/bio-photos/soojin-01.jpeg">
 </div>
 
-[Soojin](https://www.linkedin.com/in/soojin-kim-cellmolbio/) is a Senior Scientist at Genentech with over a decade of specialized experience in iPSC-based neurodegenerative disease research.
+[Soojin](https://www.linkedin.com/in/soojin-kim-cellmolbio/){:target="_blank"} is a Senior Scientist at Genentech with over a decade of specialized experience in iPSC-based neurodegenerative disease research.
 Her expertise centers on organelle pathobiology using iPSC-derived neurons and glial cells, combined with CRISPR/Cas9 genome editing and advanced imaging techniques.
 Her previous academic appointments include Postdoctoral Research Fellow positions at UC San Diego and Northwestern Memorial Hospital.
 
@@ -189,6 +187,20 @@ As a Silver medalist in the International Biology Olympiad, she demonstrated ear
 Soojin earned her Ph.D. in Neuroscience from Northwestern University, where she also completed a specialized management program for scientists at the Kellogg School of Management.
 She received her Bachelor of Science in Biological Sciences with a combined minor in Brain-Mind-Behavior from Seoul National University after graduating from Seoul Science High School.
 Her interdisciplinary background bridges neuroscience, cell biology, and translational research for drug discovery applications.
+
+# Sue Kim
+
+<div class="img-container">
+<img width="50%" src="/assets/images/bio-photos/sue-01.jpeg">
+</div>
+
+[Sue](https://www.linkedin.com/in/suekimpr/){:target="_blank"} is Vice President of Corporate Marketing & Strategy at ANAFLASH Inc, a semiconductor technology company based in Silicon Valley. With over 25 years of experience in B-to-B marketing communications, she specializes in the semiconductor and technology sectors, bringing expertise in strategic storytelling, corporate branding, and global marketing execution.
+Her career includes significant leadership positions across the semiconductor industry. She served as Head of Marketing Communications, Americas at Samsung Semiconductor, and as Head of Corporate Communications & MarCom, Americas at ams OSRAM. Her previous roles include VP of Corporate Marketing at Kilopass and Head of Global Marketing Communications at Marvell Semiconductor.
+
+Sue's approach combines strategic insights with innovative marketing techniques to drive revenue growth, enhance organizational positioning, and measure ROI. She is proficient in both Korean and English, with native bilingual capabilities that enable her to bridge Korean and American business cultures.
+Beyond her corporate work, Sue is actively involved in community leadership, particularly in supporting talented immigrant women's career development through organizations like Simple Steps. Her passion for storytelling and strategic communications extends to helping others navigate their professional journeys, demonstrating her commitment to empowering the next generation of leaders.
+
+Sue holds executive education from Wharton Executive Education, complementing her extensive industry experience with formal strategic business training. Her unique perspective on technology marketing and cross-cultural communication brings valuable insights to discussions about how technology companies effectively convey their innovations to global markets.
 
 # Sunghee Yun
 
@@ -261,7 +273,7 @@ and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that gen
 <img width="80%" src="/assets/images/bio-photos/yoonhak-00.jpeg">
 </div>
 
-[Yoonhak](https://www.chosun.com/site/data/html_dir/2018/08/03/2018080300096.html) is a conductor and professor @ Yeungnam University, Korea.
+[Yoonhak](https://www.chosun.com/site/data/html_dir/2018/08/03/2018080300096.html){:target="_blank"} is a conductor and professor @ Yeungnam University, Korea.
 He used to serve as the Artistic Director @ Concert Opera Philadelphia and Associate Conductor &amp; Chorus Master @ Opera Delaware,
 while also being the Music Director @ Gloria Youth Orchestra in New Jersey.
 He has conducted major orchestras including Seoul Philharmonic, Opera Delaware Orchestra, and Sofia Festival Orchestra,

@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 10:26:41 PST 2025
+last_modified_at: Fri Dec 26 11:49:21 PST 2025
 ---
 
 # Byoung-Il Bae
@@ -194,13 +194,13 @@ Her interdisciplinary background bridges neuroscience, cell biology, and transla
 <img width="50%" src="/assets/images/bio-photos/sue-01.jpeg">
 </div>
 
-[Sue](https://www.linkedin.com/in/suekimpr/){:target="_blank"} is Vice President of Corporate Marketing & Strategy at ANAFLASH Inc, a semiconductor technology company based in Silicon Valley. With over 25 years of experience in B-to-B marketing communications, she specializes in the semiconductor and technology sectors, bringing expertise in strategic storytelling, corporate branding, and global marketing execution.
-Her career includes significant leadership positions across the semiconductor industry. She served as Head of Marketing Communications, Americas at Samsung Semiconductor, and as Head of Corporate Communications & MarCom, Americas at ams OSRAM. Her previous roles include VP of Corporate Marketing at Kilopass and Head of Global Marketing Communications at Marvell Semiconductor.
+[Sue](https://www.linkedin.com/in/suekimpr/){:target="_blank"} is a distinguished global communications executive and the current Vice President of Corporate Marketing & Strategy at ANAFLASH Inc., a Silicon Valley-based semiconductor company specializing in data-centric processor solutions. With over 25 years of experience leading marketing and communications for both large-scale semiconductor enterprises and startups in Silicon Valley, Sue brings a deep expertise in strategic storytelling, corporate branding, and global marketing execution.
 
-Sue's approach combines strategic insights with innovative marketing techniques to drive revenue growth, enhance organizational positioning, and measure ROI. She is proficient in both Korean and English, with native bilingual capabilities that enable her to bridge Korean and American business cultures.
-Beyond her corporate work, Sue is actively involved in community leadership, particularly in supporting talented immigrant women's career development through organizations like Simple Steps. Her passion for storytelling and strategic communications extends to helping others navigate their professional journeys, demonstrating her commitment to empowering the next generation of leaders.
+Previously, Sue has held senior marketing leadership roles at Samsung Semiconductor, ams OSRAM, Marvell Semiconductor, and Renesas (formerly IDT), where she translated complex technological innovations into narratives that resonate across diverse stakeholder groups.  She also founded Korea operations for The Hoffman Agency, a global PR firm.
 
-Sue holds executive education from Wharton Executive Education, complementing her extensive industry experience with formal strategic business training. Her unique perspective on technology marketing and cross-cultural communication brings valuable insights to discussions about how technology companies effectively convey their innovations to global markets.
+She focuses on how technology companies can effectively convey their innovations to global markets while maintaining a focus on leadership and human-centric communication. Sue’s professional approach is defined by her ability to bridge the gap between complex technical innovation and human-centric narratives. Her unique perspective on cross-cultural communication and the ethical, social, and economic impacts of technology aligns with the Solar Society’s mission.
+
+Sue’s leadership is underpinned by a robust educational foundation, including the Global C-Suite Program at Wharton Executive Education and the Advanced Leadership Program at Stanford Graduate School of Business. She also studied marketing communications at the British Columbia Institute of Technology and holds a Bachelor of Arts in English Language and Literature from Kookmin University in Seoul.
 
 # Sunghee Yun
 

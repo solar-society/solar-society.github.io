@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Dec 27 09:59:13 PST 2025
+last_modified_at: Sat Dec 27 11:11:56 PST 2025
 ---
 
 # Byoung-Il Bae
@@ -267,6 +267,7 @@ as CTO, Chief Applied Scientist &amp; Senior Fellow.-->
 <!--He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and Vice President (VP)
 and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
 
+<!--
 # Yerang Daniel Hur
 
 <!--div class="img-container">
@@ -280,6 +281,7 @@ Prior to View, Yerang served as VP of Engineering and Director at Juni Global, w
 Yerang is also Co-Founder of NextEPC Inc., a company specializing in virtualized core network infrastructure for IoT and smart devices. Her earlier career at Posdata America (Posco ICT) included principal systems engineering roles where she contributed to LTE eNodeB development, WiMAX/WiBro femtocell design, and 4G wireless communication protocol standardization. She served as a liaison to the WiMAX Forum Technical Working Group and led power saving operation initiatives.
 
 Her distinguished achievements include receiving the WiMAX Forum President Award, Posdata CEO Award, and Samsung Electronics Humantech Silver Prize. Yerang holds degrees from the University of Pennsylvania and Seoul National University. She is bilingual in English and Korean, with expertise spanning the entire wireless technology stack from physical layer design to network architecture and standardization. Her pioneering work in mobile WiMAX, LTE, and 5G technologies positions her at the forefront of next-generation wireless communications.
+-->
 
 # Yoonhak Baek
 

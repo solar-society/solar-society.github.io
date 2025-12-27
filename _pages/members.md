@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 11:49:21 PST 2025
+last_modified_at: Sat Dec 27 08:44:52 PST 2025
 ---
 
 # Byoung-Il Bae
@@ -205,7 +205,7 @@ Sue’s leadership is underpinned by a robust educational foundation, including 
 # Sunghee Yun
 
 <div class="img-container">
-<img width="80%" src="/assets/images/bio-photos/sunghee-04.jpg">
+<img width="50%" src="/assets/images/bio-photos/sunghee-02.jpg">
 </div>
 
 <a href="https://sungheeyun.github.io/">Sunghee</a> is

@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Dec 27 11:11:56 PST 2025
+last_modified_at: Sat Dec 27 12:41:04 PST 2025
 ---
 
 # Byoung-Il Bae
@@ -24,6 +24,20 @@ Since 2019, he has been leading neuroscience research at UConn Health.
 His expertise spans molecular and cell biology, with research focusing on the genetic and cellular mechanisms underlying cerebral development.
 His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size.
 Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
+
+# Bo Hyoung (Jeff) Lee
+
+<div class="img-container">
+<img width="50%" src="/assets/images/bio-photos/jeff-01.jpeg">
+</div>
+
+[Jeff](https://www.linkedin.com/in/bohyounglee){:target="_blank"} is a Corporate M&A Attorney at Shin & Kim, one of Korea's leading law firms, specializing in cross-border transactions with particular expertise in biotech strategy and AI regulation. Currently pursuing an LL.M. at Stanford Law School (2025-2026), he serves as a Fellow at the Center for Law and Biosciences and Lead Editor of the Stanford Technology Law Review, positioning himself at the forefront of emerging legal frameworks for biotechnology and artificial intelligence.
+
+His unique interdisciplinary background combines medicine, law, and business. He holds a Doctor of Medicine (M.D.) from Seoul National University, a Ph.D. in Administrative Law (Regulatory Law) from Seoul National University, and a J.D. from Seoul National University. His undergraduate studies included a remarkable quadruple major in Biology, Business, Psychology, and Philosophy at Seoul National University, demonstrating his commitment to understanding complex systems from multiple perspectives.
+
+Bo Hyoung's legal career includes serving as a Public-service Advocate at the Ministry of Justice (2018-2021) and currently as an Attorney at Shin & Kim (2021-present). He also serves as a Part-time Professor at Seoul National University, where he teaches and contributes to legal scholarship. His professional engagement extends to the Asian Pacific American Bar Association of Silicon Valley, where he serves on the Venture Capital Committee, bridging Korean and Silicon Valley legal ecosystems.
+
+His expertise spans environmental policy, trend analysis, and statistical data analysis, with professional certifications including Certified Credit Analyst, Attorney, and Certified Investment Manager. His practice focuses on the regulatory challenges at the intersection of biotechnology, artificial intelligence, and corporate transactions. Bo Hyoung's comprehensive understanding of both scientific and legal frameworks makes him uniquely qualified to navigate the complex regulatory landscape facing innovative technology companies, particularly in the rapidly evolving fields of biotech and AI.
 
 # Dayoung Jeong
 
@@ -159,7 +173,7 @@ more accessible, and human-centered care.
 # Seonhee Lim
 
 <div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/seonhee-03.jpeg">
+<img width="50%" src="/assets/images/bio-photos/seonhee-03.jpeg">
 </div>
 
 
@@ -191,7 +205,7 @@ Her interdisciplinary background bridges neuroscience, cell biology, and transla
 # Sue Kim
 
 <div class="img-container">
-<img width="35%" src="/assets/images/bio-photos/sue-01.jpeg">
+<img width="50%" src="/assets/images/bio-photos/sue-01.jpeg">
 </div>
 
 [Sue](https://www.linkedin.com/in/suekimpr/){:target="_blank"} is a distinguished global communications executive and the current Vice President of Corporate Marketing & Strategy at ANAFLASH Inc., a Silicon Valley-based semiconductor company specializing in data-centric processor solutions. With over 25 years of experience leading marketing and communications for both large-scale semiconductor enterprises and startups in Silicon Valley, Sue brings a deep expertise in strategic storytelling, corporate branding, and global marketing execution.
@@ -304,7 +318,7 @@ having transitioned from engineering to music after his undergraduate studies.
 # Youngwook (Hayden) Song
 
 <div class="img-container">
-<img width="35%" src="/assets/images/bio-photos/hayden-01.jpeg">
+<img width="50%" src="/assets/images/bio-photos/hayden-01.jpeg">
 </div>
 
 [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} is an Environment & Safety Attorney at Kim & Chang, one of Korea's leading law firms, where he has practiced for over seven years specializing in environmental law and occupational safety & health. His unique background combining legal expertise with technical knowledge makes him particularly valuable in addressing complex regulatory matters at the intersection of technology, industry, and environmental protection.

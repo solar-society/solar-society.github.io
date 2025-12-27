@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Dec 27 08:44:52 PST 2025
+last_modified_at: Sat Dec 27 09:59:13 PST 2025
 ---
 
 # Byoung-Il Bae
@@ -191,7 +191,7 @@ Her interdisciplinary background bridges neuroscience, cell biology, and transla
 # Sue Kim
 
 <div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/sue-01.jpeg">
+<img width="35%" src="/assets/images/bio-photos/sue-01.jpeg">
 </div>
 
 [Sue](https://www.linkedin.com/in/suekimpr/){:target="_blank"} is a distinguished global communications executive and the current Vice President of Corporate Marketing & Strategy at ANAFLASH Inc., a Silicon Valley-based semiconductor company specializing in data-centric processor solutions. With over 25 years of experience leading marketing and communications for both large-scale semiconductor enterprises and startups in Silicon Valley, Sue brings a deep expertise in strategic storytelling, corporate branding, and global marketing execution.
@@ -205,7 +205,7 @@ Sue’s leadership is underpinned by a robust educational foundation, including 
 # Sunghee Yun
 
 <div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/sunghee-02.jpg">
+<img width="35%" src="/assets/images/bio-photos/sunghee-02.jpg">
 </div>
 
 <a href="https://sungheeyun.github.io/">Sunghee</a> is
@@ -267,6 +267,20 @@ as CTO, Chief Applied Scientist &amp; Senior Fellow.-->
 <!--He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and Vice President (VP)
 and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
 
+# Yerang Daniel Hur
+
+<!--div class="img-container">
+<img width="50%" src="/assets/images/bio-photos/yerang-01.jpg">
+</div-->
+
+[Yerang](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"} is a Senior Director at View, Inc., a SoftBank company, where she leads View Connect initiatives focused on next-generation wireless connectivity solutions. Her expertise spans 5G/4G neutral hosting networks, private wireless networks, RAN intelligence, in-building connectivity design, and network virtualization technologies including vRAN and vCore cloudification.
+
+Prior to View, Yerang served as VP of Engineering and Director at Juni Global, where she drove 5G strategy and solutions, CBRS LTE small cell development, and O-RAN implementations. Her technical leadership encompassed advanced LTE Self-Organizing Network (SON) solutions, Software Defined Networking (SDN), and Network Function Virtualization (NFV) architectures. She has successfully managed major partnerships including Google and Charter Communications LTE small cell solutions.
+
+Yerang is also Co-Founder of NextEPC Inc., a company specializing in virtualized core network infrastructure for IoT and smart devices. Her earlier career at Posdata America (Posco ICT) included principal systems engineering roles where she contributed to LTE eNodeB development, WiMAX/WiBro femtocell design, and 4G wireless communication protocol standardization. She served as a liaison to the WiMAX Forum Technical Working Group and led power saving operation initiatives.
+
+Her distinguished achievements include receiving the WiMAX Forum President Award, Posdata CEO Award, and Samsung Electronics Humantech Silver Prize. Yerang holds degrees from the University of Pennsylvania and Seoul National University. She is bilingual in English and Korean, with expertise spanning the entire wireless technology stack from physical layer design to network architecture and standardization. Her pioneering work in mobile WiMAX, LTE, and 5G technologies positions her at the forefront of next-generation wireless communications.
+
 # Yoonhak Baek
 
 <div class="img-container">
@@ -284,3 +298,17 @@ His educational background includes
 an Artistic Diploma in Orchestral Conducting from Curtis Institute of Music, M.M. in Opera Coaching from Temple University,
 and B.S. in Electrical Engineering from Seoul National University,
 having transitioned from engineering to music after his undergraduate studies.
+
+# Youngwook (Hayden) Song
+
+<div class="img-container">
+<img width="35%" src="/assets/images/bio-photos/hayden-01.jpeg">
+</div>
+
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} is an Environment & Safety Attorney at Kim & Chang, one of Korea's leading law firms, where he has practiced for over seven years specializing in environmental law and occupational safety & health. His unique background combining legal expertise with technical knowledge makes him particularly valuable in addressing complex regulatory matters at the intersection of technology, industry, and environmental protection.
+
+Currently pursuing an LL.M. in Environmental Law and Policy at Stanford Law School (2025-2026), Hayden is expanding his expertise in U.S. and international environmental frameworks. His practice covers a comprehensive range of environmental issues including climate change regulations, air and water pollution control, waste management, hazardous chemicals regulation, and environmental impact assessments, as well as occupational safety and health management systems.
+
+His academic credentials include a Ph.D. in Administrative Law (Environmental Law) from Korea University, a J.D. from Korea University, and a B.S. in Chemical Engineering from Pohang University of Science and Technology (POSTECH), with an exchange program at the Australian National University. This combination of chemical engineering and legal training enables him to provide technically sophisticated counsel to global companies on regulatory compliance, environmental litigation, and the development of sustainable business practices.
+
+Before joining Kim & Chang, Hayden served as a Judge Advocate in the Republic of Korea Air Force for three years, where he gained valuable experience in military justice and regulatory enforcement. His interdisciplinary approach bridges environmental conservation with sustainable industrial development, making him an essential voice in discussions about how technology and industry can evolve responsibly in the face of climate change and environmental challenges.

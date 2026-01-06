@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Sat Dec 27 12:41:04 PST 2025
+last_modified_at: Mon Jan  5 20:09:31 PST 2026
 ---
 
 # Byoung-Il Bae
@@ -222,6 +222,7 @@ Sue’s leadership is underpinned by a robust educational foundation, including 
 <img width="35%" src="/assets/images/bio-photos/sunghee-02.jpg">
 </div>
 
+<!--
 <a href="https://sungheeyun.github.io/">Sunghee</a> is
 Co-founder &amp; CTO
 @ <a target="_blank" href="https://www.erudio.bio">Erudio Bio, Inc., CA, USA</a>,
@@ -257,7 +258,9 @@ and
 B.S.
 in <a target="_blank" href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
 from <a target="_blank" href="https://en.snu.ac.kr">Seoul National University</a>.
+-->
 
+<!--
 Before founding the new AI biotech company,
 he co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/), an industrial AI company,
 built and ran the US Headquarters of [Gauss Labs](https://www.gausslabs.ai/),
@@ -272,6 +275,7 @@ Design Technology (DT) Team & Computer-Aided Engineering (CAE) Team of [Samsung 
 where he developed diverse AI and optimization tools for semiconductor chip designers,
 manufacturing engineers &amp; test engineers where many engineers
 still use the circuit optimization tools and generic AI optimization platform, dubbed iOpt, every day.
+-->
 <!--He has extensive industry and academic experience and expertise in AI and Convex Optimization,
 having worked for Samsung Electronics as Senior &amp; Principal Engineer,
 <a href="http://amazon.com">Amazon.com, Inc.</a> as Senior Applied Scientist,
@@ -281,13 +285,56 @@ as CTO, Chief Applied Scientist &amp; Senior Fellow.-->
 <!--He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and Vice President (VP)
 and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
 
+<a href="https://sungheeyun.github.io/">Sunghee</a> is
+Co-founder &amp; CTO
+@ <a target="_blank" href="https://www.erudio.bio">Erudio Bio, Inc., CA, USA</a>,
+Co-founder &amp; CEO
+@ <a target="_blank" href="https://sungheeyun-erudio.github.io/">Erudio Bio Korea, Inc., Korea</a>
+Leader
+of <a target="_blank" href="https://k-privateai.github.io">Silicon Valley Privacy-Preserving AI Forum (K-PAI)</a>,
+CGO / Global Managing Partner
+@ <a target="_blank" href="https://www.lulumedic.com/en/">LULUMEDIC</a>,
+<a target="_blank" href="https://www.salzburgglobal.org/news/latest-news/article/introducing-the-second-cohort-of-the-kfas-salzburg-global-leadership-initiative">KFAS-Salzburg Global Leadership Initiative Fellow</a>
+@ <a target="_blank" href="https://www.salzburgglobal.org/">Salzburg Global Seminar, Salzburg, Austria</a>,
+AI-Korean Medicine Integration Initiative Task Force Member
+@ <a target="_blank" href="https://www.akom.org/">The Association of Korean Medicine</a>,
+<a target="_blank" href="https://ee.sogang.ac.kr/eng/employee/professor03.php">an Visiting Professor</a>
+of <a target="_blank" href="https://ee.sogang.ac.kr/eng/main/">the Department of Electronic Engineering</a>
+@ <a target="_blank" href="https://www.sogang.ac.kr/en/home">Sogang University, Seoul, South Korea</a>,
+<a target="_blank" href="https://www.dgist.ac.kr/prog/peopleProfsr/en_eecs/sub02_01/list.do">an Advisory Professor</a>
+of <a target="_blank" href="https://www.dgist.ac.kr/en_eecs/">the Department of Electrical Engineering &amp; Computer Science (EECS)</a>
+@ <a target="_blank" href="https://www.dgist.ac.kr/">Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST), South Korea</a>,
+<a target="_blank" href="https://bk4semicon.sogang.ac.kr/kor/about/org.php">Global Advisory Board Member</a>
+@ <a target="_blank" href="https://bk4semicon.sogang.ac.kr/kor/main/">Innovative Future Brain-Inspired Intelligence System Semiconductor of Sogang University</a>,
+Network Expert Consultant
+@ <a target="_blank" href="https://glginsights.com/">Gerson Lehrman Group, Inc.</a>,
+Chief Business Development Officer (CBDO)
+@ <a target="_blank" href="https://westory.ai/">WeStory.ai, CA, USA</a>,
+and
+Advisor
+@ <a target="_blank" href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>.
+
+<a href="https://sungheeyun.github.io/">He</a> earned his Ph.D. and M.S.
+in <a target="_blank" href="https://ee.stanford.edu/">Electrical Engineering</a>
+from [Stanford University](https://www.stanford.edu/){:target="_blank"} under the supervision of [Professor Stephen Boyd](https://web.stanford.edu/~boyd){:target="_blank"}, making him Boyd's first Korean doctoral student. His dissertation focused on convex optimization applied to semiconductor design, establishing foundational work that continues to influence optimization applications across multiple industries. He holds a B.S.
+in <a target="_blank" href="https://ece.snu.ac.kr/en">Electrical Engineering</a> from
+[Seoul National University](https://en.snu.ac.kr){:target="_blank"}. Following his doctorate, he joined Samsung Semiconductor,
+<!--through the prestigious Korean government alternative military service program for exceptional scientists and engineers-->
+where he spent 12 years in the Computer-Aided Engineering (CAE) Team, Design Technology (DT) Team, Strategic Sales & Marketing Team, and Software Research Center. During this time, he developed diverse AI and optimization tools for semiconductor chip designers, manufacturing engineers, and test engineers, including the widely-used iOpt platform—a generic AI optimization framework that remains in daily use by hundreds of Samsung engineers.
+
+He subsequently co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/){:target="_blank"}, SK Group's first AI company, where he built and ran the US Headquarters while serving as CTO, Global Head of Research, Chief Applied Scientist, and Senior Fellow, spearheading research and development of core technologies bringing advanced optimization and AI capabilities to industrial manufacturing. This experience laid the groundwork for his current venture at [Erudio Bio](https://www.erudio.bio/){:target="_blank"}, where he applies the same rigorous optimization principles that revolutionized semiconductor design to the challenges of drug discovery and precision medicine. Erudio Bio's bioTCAD platform represents a paradigm shift in pharmaceutical development, using AI and computational methods to predict drug efficacy, identify biomarkers, and accelerate the path from discovery to clinical application. His leadership at Erudio Bio has positioned the company at the forefront of AI-powered biotech innovation, culminating in significant recognition including the [Gates Foundation $1 million Award](https://www.mt.co.kr/tech/2025/12/15/2025121200524048774){:target="_blank"} and prominent speaking engagements at major international forums such as G-Bio Week 2025 and IFEZ X K-BioX ABDD Summit, where he presented on &ldquo;The AI Metamorphosis - Navigating New Frontiers in Technology, Society, and Human Experience.&rdquo;
+
+Beyond his corporate and entrepreneurial ventures, Sunghee has emerged as a thought leader and educator bridging AI, optimization, philosophy, and ethics. In 2025 alone, he delivered over 53 AI special lectures, seminars, and corporate consultations across Korea, the US, and internationally at institutions including Seoul National University, KAIST, POSTECH, Korea University Business School, Stanford University, and numerous government and industry forums. These extensive interactions revealed a critical gap: most people who teach and use convex optimization lack genuine, multi-dimensional understanding of the field's foundational concepts. This realization inspired him to establish the [Convex Optimization Forum](/){:target="_blank"}, dedicated to pursuing deeper understanding beyond mechanical knowledge. Through [K-PAI](https://k-privateai.github.io/seminar-reflections/13){:target="_blank"}, which has become widely recognized throughout Silicon Valley's Korean community and beyond, Erudio Bio, and his various advisory roles, he continues to advance both the theoretical foundations and practical applications of AI and optimization while fostering communities dedicated to rigorous intellectual exploration. His work bridges technical excellence with humanistic inquiry—maintaining active interests in philosophy, theology, and the intersection of mathematics with consciousness and meaning-creation. His mathematical genealogy traces through Stephen Boyd back to Gauss, Euler, and Fourier, giving him an Erdős number of 3.
+
 <!--
 # Yerang Daniel Hur
+-->
 
 <!--div class="img-container">
 <img width="50%" src="/assets/images/bio-photos/yerang-01.jpg">
 </div-->
 
+<!--
 [Yerang](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"} is a Senior Director at View, Inc., a SoftBank company, where she leads View Connect initiatives focused on next-generation wireless connectivity solutions. Her expertise spans 5G/4G neutral hosting networks, private wireless networks, RAN intelligence, in-building connectivity design, and network virtualization technologies including vRAN and vCore cloudification.
 
 Prior to View, Yerang served as VP of Engineering and Director at Juni Global, where she drove 5G strategy and solutions, CBRS LTE small cell development, and O-RAN implementations. Her technical leadership encompassed advanced LTE Self-Organizing Network (SON) solutions, Software Defined Networking (SDN), and Network Function Virtualization (NFV) architectures. She has successfully managed major partnerships including Google and Charter Communications LTE small cell solutions.

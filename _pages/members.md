@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Mon Jan  5 20:09:31 PST 2026
+last_modified_at: Mon Jan  5 20:16:47 PST 2026
 ---
 
 # Byoung-Il Bae
@@ -219,7 +219,7 @@ Sue’s leadership is underpinned by a robust educational foundation, including 
 # Sunghee Yun
 
 <div class="img-container">
-<img width="35%" src="/assets/images/bio-photos/sunghee-02.jpg">
+<img width="40%" src="/assets/images/bio-photos/sunghee-02.jpg">
 </div>
 
 <!--
@@ -325,6 +325,18 @@ where he spent 12 years in the Computer-Aided Engineering (CAE) Team, Design Tec
 He subsequently co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/){:target="_blank"}, SK Group's first AI company, where he built and ran the US Headquarters while serving as CTO, Global Head of Research, Chief Applied Scientist, and Senior Fellow, spearheading research and development of core technologies bringing advanced optimization and AI capabilities to industrial manufacturing. This experience laid the groundwork for his current venture at [Erudio Bio](https://www.erudio.bio/){:target="_blank"}, where he applies the same rigorous optimization principles that revolutionized semiconductor design to the challenges of drug discovery and precision medicine. Erudio Bio's bioTCAD platform represents a paradigm shift in pharmaceutical development, using AI and computational methods to predict drug efficacy, identify biomarkers, and accelerate the path from discovery to clinical application. His leadership at Erudio Bio has positioned the company at the forefront of AI-powered biotech innovation, culminating in significant recognition including the [Gates Foundation $1 million Award](https://www.mt.co.kr/tech/2025/12/15/2025121200524048774){:target="_blank"} and prominent speaking engagements at major international forums such as G-Bio Week 2025 and IFEZ X K-BioX ABDD Summit, where he presented on &ldquo;The AI Metamorphosis - Navigating New Frontiers in Technology, Society, and Human Experience.&rdquo;
 
 Beyond his corporate and entrepreneurial ventures, Sunghee has emerged as a thought leader and educator bridging AI, optimization, philosophy, and ethics. In 2025 alone, he delivered over 53 AI special lectures, seminars, and corporate consultations across Korea, the US, and internationally at institutions including Seoul National University, KAIST, POSTECH, Korea University Business School, Stanford University, and numerous government and industry forums. These extensive interactions revealed a critical gap: most people who teach and use convex optimization lack genuine, multi-dimensional understanding of the field's foundational concepts. This realization inspired him to establish the [Convex Optimization Forum](/){:target="_blank"}, dedicated to pursuing deeper understanding beyond mechanical knowledge. Through [K-PAI](https://k-privateai.github.io/seminar-reflections/13){:target="_blank"}, which has become widely recognized throughout Silicon Valley's Korean community and beyond, Erudio Bio, and his various advisory roles, he continues to advance both the theoretical foundations and practical applications of AI and optimization while fostering communities dedicated to rigorous intellectual exploration. His work bridges technical excellence with humanistic inquiry—maintaining active interests in philosophy, theology, and the intersection of mathematics with consciousness and meaning-creation. His mathematical genealogy traces through Stephen Boyd back to Gauss, Euler, and Fourier, giving him an Erdős number of 3.
+
+# Taeeun Kim
+
+<div class="img-container">
+<img width="40%" src="/assets/images/bio-photos/taeeun-01.png">
+</div>
+
+[Taeeun](https://www.linkedin.com/in/taeeun-%E2%80%8Dkim-10480b283/){:target="_blank"} is a Research Assistant at Seoul National University's Research Institute of Pharmaceutical Sciences (RIPS), specializing in neuroimmunology. Currently completing her biotechnology degree at Korea University, she brings a unique interdisciplinary perspective combining bioinformatics, physiology, psychology, and neuroscience. Her dream is to become a personalized well-being management programmer, bridging the gap between cutting-edge biotechnology and human-centered healthcare. As an exchange student at San Jose State University (2025), she deepened her expertise in life sciences and psychology, demonstrating her commitment to understanding both the molecular and psychological dimensions of human health.
+
+Her research journey spans multiple domains of life sciences, including structural biology, plant genetic sarcomatology, and molecular computational genomics at Korea University laboratories. Her work focuses on personalized therapeutics, precision medicine, metabolic disease, and the intersection of neuroscience with psychotherapy. She has presented research on topics ranging from cell penetration efficiency to morphological changes in response to reactive oxygen species. Her award-winning poster presentation at the 2024 AI Biohealthcare Drug Discovery Summit (Grand Award) exemplifies her ability to communicate complex scientific concepts at the intersection of AI and biotechnology.
+
+Beyond research, Taeeun demonstrates exceptional leadership and community engagement. She served as President of PRIMER (Korea University's academic biotechnology club), Vice President of the Department of Biotechnology, and held multiple leadership roles in K-BioX management including SNS Team Lead, Poster Team Lead, and Registration Team Lead for major biotech summits. As a Greenpeace activist and youth supporter for Today's Newspaper, she has actively advocated for environmental sustainability and intergenerational dialogue in the workplace. Her unique combination of molecular biology expertise, psychological insight, and social consciousness brings valuable perspectives to discussions about how biotechnology can serve humanity's well-being in ethical, personalized, and sustainable ways.
 
 <!--
 # Yerang Daniel Hur

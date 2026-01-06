@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Mon Jan  5 20:16:47 PST 2026
+last_modified_at: Mon Jan  5 20:47:47 PST 2026
 ---
 
 # Byoung-Il Bae
@@ -332,11 +332,21 @@ Beyond his corporate and entrepreneurial ventures, Sunghee has emerged as a thou
 <img width="40%" src="/assets/images/bio-photos/taeeun-01.png">
 </div>
 
+<!--
 [Taeeun](https://www.linkedin.com/in/taeeun-%E2%80%8Dkim-10480b283/){:target="_blank"} is a Research Assistant at Seoul National University's Research Institute of Pharmaceutical Sciences (RIPS), specializing in neuroimmunology. Currently completing her biotechnology degree at Korea University, she brings a unique interdisciplinary perspective combining bioinformatics, physiology, psychology, and neuroscience. Her dream is to become a personalized well-being management programmer, bridging the gap between cutting-edge biotechnology and human-centered healthcare. As an exchange student at San Jose State University (2025), she deepened her expertise in life sciences and psychology, demonstrating her commitment to understanding both the molecular and psychological dimensions of human health.
 
 Her research journey spans multiple domains of life sciences, including structural biology, plant genetic sarcomatology, and molecular computational genomics at Korea University laboratories. Her work focuses on personalized therapeutics, precision medicine, metabolic disease, and the intersection of neuroscience with psychotherapy. She has presented research on topics ranging from cell penetration efficiency to morphological changes in response to reactive oxygen species. Her award-winning poster presentation at the 2024 AI Biohealthcare Drug Discovery Summit (Grand Award) exemplifies her ability to communicate complex scientific concepts at the intersection of AI and biotechnology.
 
 Beyond research, Taeeun demonstrates exceptional leadership and community engagement. She served as President of PRIMER (Korea University's academic biotechnology club), Vice President of the Department of Biotechnology, and held multiple leadership roles in K-BioX management including SNS Team Lead, Poster Team Lead, and Registration Team Lead for major biotech summits. As a Greenpeace activist and youth supporter for Today's Newspaper, she has actively advocated for environmental sustainability and intergenerational dialogue in the workplace. Her unique combination of molecular biology expertise, psychological insight, and social consciousness brings valuable perspectives to discussions about how biotechnology can serve humanity's well-being in ethical, personalized, and sustainable ways.
+-->
+
+[Taeeun](https://www.linkedin.com/in/taeeun-%E2%80%8Dkim-10480b283/){:target="_blank"} is a Research Assistant at Seoul National University’s Research Institute of Pharmaceutical Sciences (RIPS), where she works in the field of neuroimmunology. She is currently completing her undergraduate degree in Biotechnology at Korea University and has developed an interdisciplinary academic background encompassing bioinformatics, physiology, psychology, and neuroscience. Her academic interests center on personalized therapeutics and human-centered approaches to healthcare that integrate biological and psychological perspectives.
+
+As an exchange student at San Jose State University in 2025, Taeeun expanded her training in life sciences and psychology, strengthening her understanding of both molecular mechanisms and behavioral aspects of human health. Her research experience spans diverse areas of life sciences, including structural biology, plant genetic studies, and computational genomics, gained through multiple laboratories at Korea University. Her work has focused on topics such as cell penetration efficiency, metabolic regulation, and cellular responses to oxidative stress.
+
+Taeeun has presented her research at several academic forums, including a poster presentation at the 2024 AI Biohealthcare Drug Discovery Summit, where she received the Grand Award. This experience reflects her interest in applying computational and AI-based approaches to problems in biotechnology and precision medicine.
+
+In addition to her research activities, Taeeun has taken on various leadership and organizational roles. She served as President of PRIMER, an academic biotechnology club at Korea University, and as Vice President of the Department of Biotechnology. She has also been involved in the management of K-BioX, contributing as SNS Team Lead, Poster Team Lead, and Registration Team Lead for large-scale biotechnology conferences. Outside academia, she has participated in environmental and social initiatives as a Greenpeace activist and as a youth supporter for Today’s Newspaper, engaging in discussions on sustainability and generational perspectives in society.
 
 <!--
 # Yerang Daniel Hur
